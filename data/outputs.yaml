@@ -1,0 +1,1586 @@
+- cite: 'IEEE (2026) [IEEE 7014.1-2026: IEEE Recommended Practice for Ethical Considerations of Emulated Empathy in Partner-Based General-Purpose Artificial Intelligence Systems](https://standards.ieee.org/ieee/7014.1/11609/). Working group chaired by Andrew McStay.'
+  year: 2026
+  type: report
+  theme: governing
+  projects:
+  - gpai-standards
+  url: https://standards.ieee.org/ieee/7014.1/11609/
+  key: true
+  short: 'IEEE 7014.1-2026: ethical considerations of emulated empathy in AI partners'
+  lab: true
+- cite: McStay, A. & Bakir, V. (2026) [*Do AI Companions Understand? Most UK Teens Say Yes*](https://drive.google.com/file/d/1dNte5ZH6prpm1inDQsZnN-N7H_0K4VPA/view). Emotional AI Lab.
+  year: 2026
+  type: report
+  theme: simulating
+  projects:
+  - companions
+  - children
+  url: https://drive.google.com/file/d/1dNte5ZH6prpm1inDQsZnN-N7H_0K4VPA/view
+  key: true
+  short: Do AI Companions Understand? Most UK Teens Say Yes
+  lab: true
+- cite: 'Bakir, V., McStay, A. & Ugochukwu, C. (2026) [*Weaponised Empathy: AI Scams and the Nigeria–UK Response*](https://drive.google.com/file/d/1ZtbGbHnxj-chGxPM2xQUwU8u_Ecyn-T2/view). Bangor: Emotional AI Lab, Bangor University.'
+  year: 2026
+  type: report
+  theme: simulating
+  projects:
+  - scam-culture
+  url: https://drive.google.com/file/d/1ZtbGbHnxj-chGxPM2xQUwU8u_Ecyn-T2/view
+  key: true
+  short: 'Weaponised Empathy: AI Scams and the Nigeria–UK Response'
+  lab: true
+- cite: 'McStay, A. & Bakir, V (2025) [Soft Law for Unintentional Empathy: Addressing the Governance Gap in Emotion-Recognition AI Technologies](https://www.sciencedirect.com/science/article/pii/S2666659625000228#:~:text=Ethical%20and%20technological%20soft%20law,and%20mitigate%20unintended%20significant%20harms.). Journal of Responsible Technology.'
+  year: 2025
+  type: paper
+  theme: governing
+  projects:
+  - gpai-standards
+  url: https://www.sciencedirect.com/science/article/pii/S2666659625000228#:~:text=Ethical%20and%20technological%20soft%20law,and%20mitigate%20unintended%20significant%20harms.
+  key: true
+  short: Soft Law for Unintentional Empathy
+  lab: true
+- cite: 'McStay, A. (2025) [Emulated Empathy: Can Risks be Countered by a Soft-law Standard?](https://drive.google.com/file/d/1g8rSeghcFKuImI8rj984Q2WbkQv8F553/view?usp=drive_link) IEEE Transactions on Technology and Society.'
+  year: 2025
+  type: paper
+  theme: governing
+  projects:
+  - gpai-standards
+  url: https://drive.google.com/file/d/1g8rSeghcFKuImI8rj984Q2WbkQv8F553/view?usp=drive_link
+  key: false
+  lab: true
+- cite: Bakir, V. & McStay, A. (2025) [Move Fast and Break People? Ethics, Companion Apps, and the Case of Character.ai](https://link.springer.com/article/10.1007/s00146-025-02408-5), AI & Society.
+  year: 2025
+  type: paper
+  theme: simulating
+  projects:
+  - companions
+  url: https://link.springer.com/article/10.1007/s00146-025-02408-5
+  key: true
+  short: Move Fast and Break People? Ethics, Companion Apps, and the Case of Character.ai
+  lab: true
+- cite: 'Bakir, V. & McStay, A. (2025) [The Moral Threshold of AI Companionship and Desired Governance: Reflections from the UK Public](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5193090), SSRN.'
+  year: 2025
+  type: paper
+  theme: simulating
+  projects:
+  - companions
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5193090
+  key: false
+  lab: true
+- cite: 'McStay, A. (2024) [The hidden influence: exploring presence in human-synthetic interactions through ghostbots](https://doi.org/10.1007/s10676-024-09786-2). *Ethics and Information Technology*.'
+  year: 2024
+  type: paper
+  theme: simulating
+  projects:
+  - companions
+  url: https://doi.org/10.1007/s10676-024-09786-2
+  key: false
+  lab: true
+- cite: 'Bakir, V., Laffer, A., McStay, A., Miranda, D., & Urquhart, L. (2024). [On manipulation by emotional AI: UK adults’ views and governance implications](https://doi.org/10.3389/fsoc.2024.1339834). *Frontiers in Sociolog*y, 9.'
+  year: 2024
+  type: paper
+  theme: governing
+  projects: []
+  url: https://doi.org/10.3389/fsoc.2024.1339834
+  key: false
+  lab: true
+- cite: 'McStay, A. (2023). [*Automating Empathy: Decoding Technologies that Gauge Intimate Life*](https://academic.oup.com/book/55102?login=false). Oxford University Press.'
+  year: 2023
+  type: book
+  theme: simulating
+  projects: []
+  url: https://academic.oup.com/book/55102?login=false
+  key: true
+  short: 'Automating Empathy: Decoding Technologies that Gauge Intimate Life'
+  lab: true
+- cite: 'McStay, A. (2023) [The Metaverse: Andrew McStay’s Responses to Cody Turner](https://link.springer.com/article/10.1007/s13347-023-00676-x). *Philosophy & Technology*.'
+  year: 2023
+  type: paper
+  theme: simulating
+  projects: []
+  url: https://link.springer.com/article/10.1007/s13347-023-00676-x
+  key: false
+  lab: true
+- cite: 'Bakir, V., Laffer, A. & McStay, A. (2023) [Blurring the moral limits of data markets: biometrics, emotion and data dividends](https://doi.org/10.1007/s00146-023-01739-5). *AI & Society.*'
+  year: 2023
+  type: paper
+  theme: governing
+  projects:
+  - personal-data-stores
+  url: https://doi.org/10.1007/s00146-023-01739-5
+  key: false
+  lab: true
+- cite: 'Bakir, V., Laffer, A. and McStay, A. (2023) [Human-First, Please: Assessing Citizen Views and Industrial Ambition for Emotional AI in Recommender Systems](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/16015/10809). S*urveillance and Society*.'
+  year: 2023
+  type: paper
+  theme: sensing
+  projects: []
+  url: https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/16015/10809
+  key: false
+  lab: true
+- cite: 'McStay, A. (2023) [The Metaverse: Surveillant Physics, Virtual Realist Governance, and The Missing Commons](https://link.springer.com/article/10.1007/s13347-023-00613-y). *Philosophy & Technology*.'
+  year: 2023
+  type: paper
+  theme: governing
+  projects: []
+  url: https://link.springer.com/article/10.1007/s13347-023-00613-y
+  key: false
+  lab: true
+- cite: 'Bakir, V. and McStay, A. (2022). [*Optimising Emotions, Incubating Falsehoods: How to Protect the Global Civic Body from Disinformation and Misinformation*](https://link.springer.com/book/10.1007/978-3-031-13551-4). Palgrave Macmillan, Springer.'
+  year: 2022
+  type: book
+  theme: simulating
+  projects:
+  - disinformation
+  url: https://link.springer.com/book/10.1007/978-3-031-13551-4
+  key: false
+  lab: true
+- cite: 'McStay, A. & Bakir, V. (2023) "[Automating empathy: overview, technologies, criticism](https://www.elgaronline.com/edcollchap/book/9781803928562/book-part-9781803928562-67.xml)" in Handbook of Critical Studies of Artificial Intelligence.'
+  year: 2023
+  type: paper
+  theme: simulating
+  projects: []
+  url: https://www.elgaronline.com/edcollchap/book/9781803928562/book-part-9781803928562-67.xml
+  key: false
+  lab: true
+- cite: 'McStay, A. (2022) [Replika in the Metaverse: the moral problem with empathy in ‘It from Bit’.](https://link.springer.com/article/10.1007/s43681-022-00252-7) *AI and Ethics*.'
+  year: 2022
+  type: paper
+  theme: simulating
+  projects:
+  - companions
+  url: https://link.springer.com/article/10.1007/s43681-022-00252-7
+  key: false
+  lab: true
+- cite: 'McStay, A. (2022) Automated Empathy in Education. In L. Livingstone and K. Pothong (Eds) *Education Data Futures: Critical Regulatory and Policy Futures*. *5RightsFoundation.* [Online](https://educationdatafutures.digitalfuturescommission.org.uk/essays/seeking-design-solutions/automated-empathy-in-education).'
+  year: 2022
+  type: paper
+  theme: sensing
+  projects:
+  - children
+  url: https://educationdatafutures.digitalfuturescommission.org.uk/essays/seeking-design-solutions/automated-empathy-in-education
+  key: false
+  lab: true
+- cite: 'Urquhart, L., Laffer, A. and Miranda, D. (2022) [Working with Affective Computing: Exploring UK Public Perceptions of AI enabled Workplace Surveillance.](https://sites.utu.fi/ethicomp2022/wp-content/uploads/sites/1104/2022/09/Ethicomp-2022-Proceedings.pdf) *ETHICOMP 2022 PROCEEDINGS*. PP.165-177.'
+  year: 2022
+  type: paper
+  theme: governing
+  projects: []
+  url: https://sites.utu.fi/ethicomp2022/wp-content/uploads/sites/1104/2022/09/Ethicomp-2022-Proceedings.pdf
+  key: false
+  lab: true
+- cite: 'Bakir, V., Ghotbi, N., Ho, T.M., Laffer, A., Mantello, P., McStay, A., Miranda, D., Miyashita, H., Podoletz, L., Tanaka, H., Urquhart, L. (2022) ‘[Emotional AI in Cities Cross-cultural Lessons from the UK and Japan on Designing for an Ethical Life](https://onlinelibrary.wiley.com/doi/10.1002/9781119815075.ch51)’. In Carta, S. (Ed.) *Machine Learning and the City: Applications in Architecture and Urban Design*. Wiley.'
+  year: 2022
+  type: paper
+  theme: sensing
+  projects:
+  - ukjapan
+  url: https://onlinelibrary.wiley.com/doi/10.1002/9781119815075.ch51
+  key: false
+  lab: true
+- cite: 'McStay, A. & Urquhart, L. (2022) [In Cars (Are We Really Safest of All?): Interior Sensing and Emotional Opacity,](https://www.tandfonline.com/doi/pdf/10.1080/13600869.2021.2009181?needAccess=true) International Review of Law, Computers & Technology.'
+  year: 2022
+  type: paper
+  theme: governing
+  projects: []
+  url: https://www.tandfonline.com/doi/pdf/10.1080/13600869.2021.2009181?needAccess=true
+  key: false
+  lab: true
+- cite: 'Ho, MT., Mantello, P., Nguyen, HK.T. *et al.* (2021) [Affective computing scholarship and the rise of China: a view from 25 years of bibliometric data](https://www.nature.com/articles/s41599-021-00959-8). *Humanit Soc Sci Commun* 8,282.'
+  year: 2021
+  type: paper
+  theme: null
+  projects: []
+  url: https://www.nature.com/articles/s41599-021-00959-8
+  key: false
+  lab: true
+- cite: 'Mantello, P., Manh Ho, T., Minh‑Hoang, N. & Quan‑Hoang, V. (2021) [Bosses without a heart: socio‑demographic and cross‑cultural determinants of attitude toward Emotional AI in the workplace](https://link.springer.com/content/pdf/10.1007/s00146-021-01290-1.pdf). *AI and Society.*'
+  year: 2021
+  type: paper
+  theme: sensing
+  projects: []
+  url: https://link.springer.com/content/pdf/10.1007/s00146-021-01290-1.pdf
+  key: false
+  lab: true
+- cite: 'Urquhart, L. & Miranda, S. (2021) [Policing faces: the present and future of intelligent facial surveillance](https://www.tandfonline.com/doi/full/10.1080/13600834.2021.1994220), *Information & Communications Technology Law*.'
+  year: 2021
+  type: paper
+  theme: governing
+  projects:
+  - policing
+  url: https://www.tandfonline.com/doi/full/10.1080/13600834.2021.1994220
+  key: false
+  lab: true
+- cite: 'McStay, A. (2021) [Emotional AI, ethics, and Japanese spice: contributing community, wholeness, sincerity, and heart](https://link.springer.com/article/10.1007/s13347-021-00487-y), *Philosophy & Technology*.'
+  year: 2021
+  type: paper
+  theme: sensing
+  projects:
+  - ukjapan
+  url: https://link.springer.com/article/10.1007/s13347-021-00487-y
+  key: false
+  lab: true
+- cite: 'Rosner, G. & Bakir, V. (2021). [G*overning Philosophies in Technology Policy: Permissionless Innovation vs. The Precautionary Principle.*](https://drive.google.com/file/d/1E-zY1jjApB5EV5s3NgSvVNVE-dTnRETO/view) Working Paper, July. Funded by EPSRC Human-Data Interaction network.'
+  year: 2021
+  type: paper
+  theme: governing
+  projects: []
+  url: https://drive.google.com/file/d/1E-zY1jjApB5EV5s3NgSvVNVE-dTnRETO/view
+  key: false
+  lab: true
+- cite: 'Bakir, V. & McStay, A. (2021) [Emotional AI and Empathic Technologies: Implications of an Ontology of Mediated Emotion.](https://drive.google.com/file/d/1YeDMR6hS9BPUMLZP8cmpEox8h5K2azHz/view) Data Justice Conference. Cardiff University, May 2021 [Conference video paper]'
+  year: 2021
+  type: paper
+  theme: simulating
+  projects: []
+  url: https://drive.google.com/file/d/1YeDMR6hS9BPUMLZP8cmpEox8h5K2azHz/view
+  key: false
+  lab: true
+- cite: 'McStay, A. & Rosner, G. (2021) [Emotional Artificial Intelligence in Children’s Toys and Devices: Ethics, Governance and Practical Remedies](https://journals.sagepub.com/doi/full/10.1177/2053951721994877), *Big Data & Society*.'
+  year: 2021
+  type: paper
+  theme: sensing
+  projects:
+  - children
+  url: https://journals.sagepub.com/doi/full/10.1177/2053951721994877
+  key: false
+  lab: true
+- cite: Ghotbi, N., Mantello, P. & Manh Ho, T. (2021) Attitude of College Students towards ethical uses if artificial intelligence in an international university in Japan, *AI and Society.* [Link](https://link.springer.com/epdf/10.1007/s00146-021-01168-2?sharing_token=-sTshXqgDxN-qMx0GIe0cfe4RwlQNchNByi7wbcMAY5dGfQCDeInqW4bL6-Fd1gi-HKYTg3M8gCvk8w1VsT_2KnRB2WgjNdVVsKMvqqwJ8xZIfkFs0zCTowq5rd75BCNlTK5GuNaecaGQR3dVqBEUy449A6d-sl56xMQf5iVN-U%3D).
+  year: 2021
+  type: paper
+  theme: sensing
+  projects:
+  - ukjapan
+  url: https://link.springer.com/epdf/10.1007/s00146-021-01168-2?sharing_token=-sTshXqgDxN-qMx0GIe0cfe4RwlQNchNByi7wbcMAY5dGfQCDeInqW4bL6-Fd1gi-HKYTg3M8gCvk8w1VsT_2KnRB2WgjNdVVsKMvqqwJ8xZIfkFs0zCTowq5rd75BCNlTK5GuNaecaGQR3dVqBEUy449A6d-sl56xMQf5iVN-U%3D
+  key: false
+  lab: true
+- cite: 'McStay, A. & Rosner, G. (2020) “Emotoys”: Ethics, Emotions and Empathic Technologies, In A. Malinowska (Ed) *Data Dating*. Bristol: Intellect.'
+  year: 2020
+  type: paper
+  theme: sensing
+  projects:
+  - children
+  url: null
+  key: false
+  lab: true
+- cite: 'Bakir, V. 2020. Psychological Operations in Digital Political Campaigns: Assessing Cambridge Analytica’s Psychographic Profiling and Targeting. *Frontiers in Political Communication.* 5(67). <https://doi.org/10.3389/fcomm.2020.00067>'
+  year: 2020
+  type: paper
+  theme: simulating
+  projects:
+  - disinformation
+  url: https://doi.org/10.3389/fcomm.2020.00067
+  key: false
+  lab: true
+- cite: 'Bakir, V. & A.McStay. (2020) Empathic Media, Emotional AI and the Optimization of Disinformation. In M. Boler and E. Davis (eds.) *Affective Politics of Digital Media: Propaganda by Other Means*. New York: Routledge. ([Book description](https://www.routledge.com/Affective-Politics-of-Digital-Media-Propaganda-by-Other-Means/Boler-Davis/p/book/9780367510657))'
+  year: 2020
+  type: paper
+  theme: simulating
+  projects:
+  - disinformation
+  url: https://www.routledge.com/Affective-Politics-of-Digital-Media-Propaganda-by-Other-Means/Boler-Davis/p/book/9780367510657
+  key: false
+  lab: true
+- cite: 'McStay, A. (2020) Emotional AI, Soft Biometrics and the Surveillance of Emotional life: An Unusual Consensus on Privacy, *Big Data & Society*. 1–12. [Link](https://journals.sagepub.com/doi/full/10.1177/2053951720904386).'
+  year: 2020
+  type: paper
+  theme: governing
+  projects: []
+  url: https://journals.sagepub.com/doi/full/10.1177/2053951720904386
+  key: false
+  lab: true
+- cite: 'McStay, A. (2020) Emotional AI: A societal challenge (a short vision paper), Kenniscentrum Data & Maatschappij. [Link](https://data-en-maatschappij.ai/en/publications/paper-emotional-ai-a-societal-challenge).'
+  year: 2020
+  type: paper
+  theme: null
+  projects: []
+  url: https://data-en-maatschappij.ai/en/publications/paper-emotional-ai-a-societal-challenge
+  key: false
+  lab: true
+- cite: Bakir, V. (2020) 'Against opacity in digital political campaigns'. Kenniscentrum Data & Maatschappij. [Link](https://data-en-maatschappij.ai/publicaties/paper-against-opacity-in-digital-political-campaigns).
+  year: 2020
+  type: paper
+  theme: simulating
+  projects:
+  - disinformation
+  url: https://data-en-maatschappij.ai/publicaties/paper-against-opacity-in-digital-political-campaigns
+  key: false
+  lab: true
+- cite: 'McStay, A. (2019) Emotional AI and EdTech: serving the public good? *Learning, Media and Technology*. pre-print [here](https://drive.google.com/file/d/1yodNkp5ftNxWXPkfIiRclv0_mK60XyQy/view?usp=sharing) and formatted article [here](https://www.tandfonline.com/doi/full/10.1080/17439884.2020.1686016).'
+  year: 2019
+  type: paper
+  theme: sensing
+  projects:
+  - children
+  url: https://drive.google.com/file/d/1yodNkp5ftNxWXPkfIiRclv0_mK60XyQy/view?usp=sharing
+  key: false
+  lab: true
+- cite: McStay, A. and Urquhart, L. (2019) *‘*This time with feeling?’ Assessing EU data governance implications of out of home appraisal based emotional AI. *First Monday.* [Link](https://firstmonday.org/ojs/index.php/fm/article/view/9457/8146).
+  year: 2019
+  type: paper
+  theme: governing
+  projects: []
+  url: https://firstmonday.org/ojs/index.php/fm/article/view/9457/8146
+  key: false
+  lab: true
+- cite: 'McStay, A. (2018) *Emotional AI: The Rise of Empathic Media.*London: Sage. [Link](https://uk.sagepub.com/sites/default/files/upm-binaries/93789_Sample_chapter_1_from_9781473971110_T.pdf) for sample chapter.'
+  year: 2018
+  type: book
+  theme: simulating
+  projects: []
+  url: https://uk.sagepub.com/sites/default/files/upm-binaries/93789_Sample_chapter_1_from_9781473971110_T.pdf
+  key: false
+  lab: true
+- cite: McStay, A. (2017) An Ethical Intervention into Conscious Cities, *Conscious Cities*. [Link](https://theccd.org/article/an-ethical-intervention-into-conscious-cities/).
+  year: 2017
+  type: paper
+  theme: sensing
+  projects:
+  - ukjapan
+  url: https://theccd.org/article/an-ethical-intervention-into-conscious-cities/
+  key: false
+  lab: true
+- cite: 'Bakir, V. and McStay, A. (2017) Fake News and the Economy of Emotions: Problems, Causes, Solutions, *Digital Journalism*. [Link](http://www.tandfonline.com/doi/full/10.1080/21670811.2017.1345645?scroll=top&needAccess=true).'
+  year: 2017
+  type: paper
+  theme: simulating
+  projects:
+  - disinformation
+  url: http://www.tandfonline.com/doi/full/10.1080/21670811.2017.1345645?scroll=top&needAccess=true
+  key: false
+  lab: true
+- cite: 'McStay, A. (2017) *Privacy and the Media*. London: Sage. (See chapter 10 *Empathic media: towards ubiquitous emotional intelligence*).'
+  year: 2017
+  type: book
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: 'McStay, A. (2017) “Micro-moments, Liquidity, Intimacy and Automation: Developments in Programmatic Ad-Tech”. In G. Siegert and M.B. von Rimscha (Eds) Commercial communication in the digital age – information or disinformation? Berlin: De Gruyter. [Click here](https://www.degruyter.com/downloadpdf/books/9783110416794/9783110416794-009/9783110416794-009.pdf).'
+  year: 2017
+  type: paper
+  theme: simulating
+  projects:
+  - disinformation
+  url: https://www.degruyter.com/downloadpdf/books/9783110416794/9783110416794-009/9783110416794-009.pdf
+  key: false
+  lab: true
+- cite: 'McStay, A. (2017) "The Mood of Information in an Age of Empathic Media". In J.F. Hamilton, R. Bodle and E. Korin (eds) *Explorations in Critical Studies of Advertising*, p. 235-247. New York: Routledge. [Link](https://books.google.co.uk/books?id=QFpjDQAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q=McStay&f=false).'
+  year: 2017
+  type: paper
+  theme: simulating
+  projects: []
+  url: https://books.google.co.uk/books?id=QFpjDQAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q=McStay&f=false
+  key: false
+  lab: true
+- cite: 'McStay, A. (2016) Empathic media and advertising: Industry, policy, legal and citizen perspectives (the case for intimacy), *Big Data & Society*, (pre-publication): 1-11. [Link](http://journals.sagepub.com/doi/pdf/10.1177/2053951716666868).'
+  year: 2016
+  type: paper
+  theme: governing
+  projects: []
+  url: http://journals.sagepub.com/doi/pdf/10.1177/2053951716666868
+  key: false
+  lab: true
+- cite: 'McStay, A. (2016) *Digital Advertising (2nd ed)*. London: Palgrave-Macmillan. (See Chapter 11 on ''Emotiveillance'')'
+  year: 2016
+  type: book
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: 'McStay, A. (2014) *Privacy and Philosophy: New Media and Affective Protocol*. New York: Peter Lang. (See chapter 7 on heidegger, moods and empathic media)'
+  year: 2014
+  type: book
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2026) Keynote In-to-me-see? Governing intimate technologies. Emotion Recognition Systems under the AI Act, Open Universiteit and the Autoriteit Persoonsgegevens (Dutch Data Protection Authority)
+  year: 2026
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2026) Oral evidence to All-Party Parliamentary Group on Online Safety
+  year: 2026
+  type: policy
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2026) Oral evidence to All-Party Parliamentary Group on AI.
+  year: 2026
+  type: policy
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: Rosner, G. and McStay, A. (2025) [*The Machine-Readable Child:*](https://drive.google.com/file/d/1rvYA5e9ievlm8En6P6sg0AM4ksKoUVzW/view?usp=sharing) [*Governance*](https://www.priv.gc.ca/en/opc-actions-and-decisions/research/funding-for-privacy-research-and-knowledge-translation/completed-contributions-program-projects/2024-2025/p_2024-25_02/) [*of Emotional AI in Canada*](https://drive.google.com/file/d/1rvYA5e9ievlm8En6P6sg0AM4ksKoUVzW/view?usp=sharing) for Office of the Privacy Commissioner of Canada.
+  year: 2025
+  type: policy
+  theme: sensing
+  projects:
+  - children
+  url: https://drive.google.com/file/d/1rvYA5e9ievlm8En6P6sg0AM4ksKoUVzW/view?usp=sharing
+  key: true
+  short: The Machine-Readable Child
+  lab: true
+- cite: Bakir, V., Ghotbi, N., Ho, T.M., Laffer, A., Mantello, P., McStay, A., Miranda, D., Miyashita, H., Podoletz, L., Tanaka, H., Urquhart, L. (2024) Can we live well with Emotional AI? It depends.. [Final report](https://drive.google.com/file/d/1ffD-CxEuyDf2YxVVNXMYTg64eek-f8T7/view?usp=sharing)
+  year: 2024
+  type: report
+  theme: sensing
+  projects:
+  - ukjapan
+  url: https://drive.google.com/file/d/1ffD-CxEuyDf2YxVVNXMYTg64eek-f8T7/view?usp=sharing
+  key: true
+  short: Can we live well with Emotional AI? It depends
+  lab: true
+- cite: McStay, A. & Rosner, G. (2022) Welsh Government Digital Ethics Report Applying digital ethics to government and public services. ([English](https://drive.google.com/file/d/1wEZICDu9QF6Ro-GYoiEprjVXOAeWQId0/view) / [Yn Gymraeg](https://drive.google.com/file/d/1wBEzI3jMioAamE6NEsN9dZcKMdHVSwjo/view)).
+  year: 2022
+  type: report
+  theme: governing
+  projects:
+  - welsh-government
+  url: https://drive.google.com/file/d/1wEZICDu9QF6Ro-GYoiEprjVXOAeWQId0/view
+  key: false
+  lab: true
+- cite: McStay, A. & Urquhart, L. (2022) UK ICO Technology and Innovation Foresight on future of transport (invited contribution).
+  year: 2022
+  type: policy
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. & Urquhart, L. (2022) UK ICO Technology and Innovation Foresight on biometrics (invited contribution).
+  year: 2022
+  type: policy
+  theme: sensing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: 'Bakir, V. and McStay, A. (2022) [Addressing false information online via provision of authoritative information: Why dialling down emotion is part of the answer](https://committees.parliament.uk/writtenevidence/111198/pdf/), Invited Submission to UK Parliament, Digital, Culture, Media & Sport Committee, Online Harms and Disinformation Sub-Committee [Inquiry into Misinformation and Trusted Voices](https://committees.parliament.uk/work/6844/misinformation-and-trusted-voices/publications/).'
+  year: 2022
+  type: policy
+  theme: simulating
+  projects:
+  - disinformation
+  url: https://committees.parliament.uk/writtenevidence/111198/pdf/
+  key: false
+  lab: true
+- cite: McStay, A. & Urquhart, L. (2022) [UK ICO Technology and Innovation Foresight invited REQUEST FOR for views (Biometrics and emotional AI)](https://drive.google.com/file/d/1J5v8thEECtodGvShySWTwVALd-DPIdBn/view?usp=sharing).
+  year: 2022
+  type: policy
+  theme: sensing
+  projects: []
+  url: https://drive.google.com/file/d/1J5v8thEECtodGvShySWTwVALd-DPIdBn/view?usp=sharing
+  key: false
+  lab: true
+- cite: McStay, A., Rosner, G., Miyashita, H. and Urquhart, L. (2020) [Comment on Children’s Rights In Relation To Emotional AI And The Digital Environment](https://drive.google.com/file/d/1XVBKQKQkbv4FiBDT-eSBM3VqNiv63B_b/view) for UN Committee on the Rights of the Child.
+  year: 2020
+  type: policy
+  theme: sensing
+  projects:
+  - children
+  url: https://drive.google.com/file/d/1XVBKQKQkbv4FiBDT-eSBM3VqNiv63B_b/view
+  key: false
+  lab: true
+- cite: Bakir, V. and McStay, A. (2020) Inquiry into the Impact of Social Media on Elections & Electoral Administration, [invited submission to the Electoral Matters Committee](https://www.parliament.vic.gov.au/images/EMC/21._Vian_Bakir_and_Andrew_McStay_Redacted.pdf), Parliament of Victoria, Australia.
+  year: 2020
+  type: policy
+  theme: simulating
+  projects:
+  - disinformation
+  url: https://www.parliament.vic.gov.au/images/EMC/21._Vian_Bakir_and_Andrew_McStay_Redacted.pdf
+  key: false
+  lab: true
+- cite: 'McStay, A. and Rosner, G. (2020) Emotional AI and children: ethics, parents, governance ([2020 Report](https://drive.google.com/file/d/1Iswo39rukxdtL7E8-4GHMAq1ykiYR-bw/view?usp=sharing)).'
+  year: 2020
+  type: report
+  theme: sensing
+  projects:
+  - children
+  url: https://drive.google.com/file/d/1Iswo39rukxdtL7E8-4GHMAq1ykiYR-bw/view?usp=sharing
+  key: false
+  lab: true
+- cite: 'Bakir, V., McStay, A. and Urquhart, L. (2020) EMOTION RECOGNITION: TRENDS, SOCIAL FEELING, POLICY (Extended Briefing paper [here](https://drive.google.com/file/d/1Hyix108Ly1140qZuggCo7HrwzSOFaIrL/view?usp=sharing) and short Briefing note [here](https://drive.google.com/file/d/18C17OsTkGOm2gx9H41dIt3OcjPs1SvbP/view)) (For UK All Party Parliamentary Group on Artificial Intelligence)'
+  year: 2020
+  type: policy
+  theme: governing
+  projects: []
+  url: https://drive.google.com/file/d/1Hyix108Ly1140qZuggCo7HrwzSOFaIrL/view?usp=sharing
+  key: false
+  lab: true
+- cite: Bakir, V. and McStay, A. (2020). Profiling & Targeting Emotions in Digital Political Campaigns. [Briefing Paper](https://research.bangor.ac.uk/portal/files/29080079/Bakir_McStay_2020_Briefing_Paper_for_APPG_Profiling_Targeting_Emotions.pdf) for All Party Parliamentary Group on Electoral Campaigning Transparency.
+  year: 2020
+  type: policy
+  theme: simulating
+  projects:
+  - disinformation
+  url: https://research.bangor.ac.uk/portal/files/29080079/Bakir_McStay_2020_Briefing_Paper_for_APPG_Profiling_Targeting_Emotions.pdf
+  key: false
+  lab: true
+- cite: 'Bakir, V. and McStay, A. (2019) [Datafied Bearbaiting and Emotional AI: Anticipating the Quantified Jeremy Kyle Show](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/reality-tv/written/102736.pdf) (For Department of Culture Media and Sport parliamentary inquiry into fake news)'
+  year: 2019
+  type: policy
+  theme: simulating
+  projects:
+  - disinformation
+  url: http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/reality-tv/written/102736.pdf
+  key: false
+  lab: true
+- cite: 'McStay and Minty, D. (2019) [Emotional AI and Insurance: Online Targeting and Bias in Algorithmic Decision Making](https://drive.google.com/file/d/15k_lmKB5BRGNZS1LqEJp2ZZV0zJ1wsQg/view?usp=sharing), For centre of Data Ethics and Innovation.'
+  year: 2019
+  type: policy
+  theme: governing
+  projects: []
+  url: https://drive.google.com/file/d/15k_lmKB5BRGNZS1LqEJp2ZZV0zJ1wsQg/view?usp=sharing
+  key: false
+  lab: true
+- cite: Bakir, V. and McStay, A. (2019) [CULTURE CHANGE Incentivise political campaigners to run civil and informative election campaigns](https://drive.google.com/file/d/1S0Y2DplPEKaQVkIkOZB_MtWrVweZB7E0/view?usp=sharing) Written submission to APPG on Electoral Campaigning Transparency.
+  year: 2019
+  type: policy
+  theme: simulating
+  projects:
+  - disinformation
+  url: https://drive.google.com/file/d/1S0Y2DplPEKaQVkIkOZB_MtWrVweZB7E0/view?usp=sharing
+  key: false
+  lab: true
+- cite: McStay, A. (2018) [Report on The Right To Privacy In The Age Of Emotional AI](https://www.ohchr.org/Documents/Issues/DigitalAge/ReportPrivacyinDigitalAge/AndrewMcStayProfessor%20of%20Digital%20Life,%20BangorUniversityWalesUK.pdf) (for The Office of the United Nations High Commissioner for Human Rights)
+  year: 2018
+  type: policy
+  theme: governing
+  projects: []
+  url: https://www.ohchr.org/Documents/Issues/DigitalAge/ReportPrivacyinDigitalAge/AndrewMcStayProfessor%20of%20Digital%20Life,%20BangorUniversityWalesUK.pdf
+  key: false
+  lab: true
+- cite: McStay, A. (2017) [AND THEN THERE’S EMOTIONAL AI…](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69364.pdf) (For the house of lords Select Committee on Artificial Intelligence)
+  year: 2017
+  type: policy
+  theme: governing
+  projects: []
+  url: http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/69364.pdf
+  key: false
+  lab: true
+- cite: 'McStay, A. (2017) [Empathic Media: The Rise of Emotional AI](https://drive.google.com/file/d/1Wf-3dHJdOAK4T3pXlR-4HBaxCaahh-TZ/view?usp=sharing) (June 2017)'
+  year: 2017
+  type: policy
+  theme: simulating
+  projects: []
+  url: https://drive.google.com/file/d/1Wf-3dHJdOAK4T3pXlR-4HBaxCaahh-TZ/view?usp=sharing
+  key: false
+  lab: true
+- cite: Bakir, V. and McStay, A. (2017) [Summary And Analysis Of All Written Submissions On How To Combat Fake News](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/written/71533.html) (Up To April 2017) (For Department of Culture Media and Sport parliamentary inquiry into fake news)
+  year: 2017
+  type: policy
+  theme: simulating
+  projects:
+  - disinformation
+  url: http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/fake-news/written/71533.html
+  key: false
+  lab: true
+- cite: 'Bakir, V. and McStay, A. (2017) [Fake News: Media Economics and Emotional Button-Pushing](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/culture-media-and-sport-committee/fake-news/written/48101.pdf) (For Department of Culture Media and Sport parliamentary inquiry into fake news)'
+  year: 2017
+  type: policy
+  theme: simulating
+  projects:
+  - disinformation
+  url: http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/culture-media-and-sport-committee/fake-news/written/48101.pdf
+  key: false
+  lab: true
+- cite: 'McStay, A. (2015) [Changing nature of influence: emotional analytics, automation and advertising](https://drive.google.com/file/d/0BzU2NrGCFp7qUjFtNjhSenljUVk/view?usp=sharing) (For UK Government Office for Science)'
+  year: 2015
+  type: policy
+  theme: governing
+  projects: []
+  url: https://drive.google.com/file/d/0BzU2NrGCFp7qUjFtNjhSenljUVk/view?usp=sharing
+  key: false
+  lab: true
+- cite: 'Loftus, B., Bakir, V., Feilzer, M., Laffer, A. & McStay, A. (2026)[Artificial Intelligence, Policing and Ethics: Establishing Citizen Perspectives](https://www.heddlugogleddcymru.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2026/2026-285--use-of-artificial-intelligence-and-automated-decision-making-systems-within-the-police-force.docx.pdf).'
+  year: 2026
+  type: report
+  theme: governing
+  projects:
+  - policing
+  url: https://www.heddlugogleddcymru.police.uk/SysSiteAssets/foi-media/north-wales/disclosure-2026/2026-285--use-of-artificial-intelligence-and-automated-decision-making-systems-within-the-police-force.docx.pdf
+  key: false
+  lab: true
+- cite: McStay, A. and Vian Bakir. (2025) [Feature on BBC radio 4 on the Emotional AI Lab’s 2026 AI companions report](https://www.bbc.co.uk/sounds/play/m002qv70) (33:50 in)
+  year: 2025
+  type: media
+  theme: simulating
+  projects:
+  - companions
+  url: https://www.bbc.co.uk/sounds/play/m002qv70
+  key: false
+  lab: true
+- cite: McStay, A. and Vian Bakir. (2025) interview and TV package for BBC WaLES on the Emotional AI Lab’s 2026 AI companions report.
+  year: 2025
+  type: media
+  theme: simulating
+  projects:
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. interview (2025) Global radio (Heart FM and capital radio).
+  year: 2025
+  type: media
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. interview (2025) [Worried mother says ChatGPT is ‘fuelling son’s delusions’ – as expert warns of alarming rise in ‘AI psychosis’,](https://www.lbc.co.uk/article/chatgpt-ai-psychosis-online-safety-5HjdChm_2/) *LBC*.
+  year: 2025
+  type: media
+  theme: simulating
+  projects:
+  - companions
+  url: https://www.lbc.co.uk/article/chatgpt-ai-psychosis-online-safety-5HjdChm_2/
+  key: false
+  lab: true
+- cite: McStay, A. interview (2025) So gewinnen KI-Chatbots das Vertrauen junger Nutzer​, Frankfurter Allgemeine Zeitung.
+  year: 2025
+  type: media
+  theme: simulating
+  projects:
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. interview (2025) Chatbots and safety, CGTN Europe. ([Video](https://www.youtube.com/watch?v=nPnBp3yuRIE) and [article](https://newseu.cgtn.com/news/2026-01-29/Should-a-chatbot-be-a-therapist--1Kj1GOUdKQo/p.html))
+  year: 2025
+  type: media
+  theme: simulating
+  projects:
+  - companions
+  url: https://www.youtube.com/watch?v=nPnBp3yuRIE
+  key: false
+  lab: true
+- cite: McStay, A. interview (2025) On AI Welfare and Companions, *The Agenda*, at Dubai Eye 103.8 FM.
+  year: 2025
+  type: media
+  theme: simulating
+  projects:
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. interview (2025) Microsoft boss troubled by rise in reports of 'AI psychosis', BBC.
+  year: 2025
+  type: media
+  theme: simulating
+  projects:
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2025) [Mattel and OpenAI have partnered up – here’s why parents should be concerned about AI in toys](https://theconversation.com/mattel-and-openai-have-partnered-up-heres-why-parents-should-be-concerned-about-ai-in-toys-259500). The ConverSation.
+  year: 2025
+  type: media
+  theme: sensing
+  projects:
+  - children
+  url: https://theconversation.com/mattel-and-openai-have-partnered-up-heres-why-parents-should-be-concerned-about-ai-in-toys-259500
+  key: false
+  lab: true
+- cite: McStay, A. (2024) Can AI Read Emotions (special guest), BBC, Artificial Human.
+  year: 2024
+  type: media
+  theme: sensing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A interview (2024) These Smart Glasses Will Read Your Emotions and Watch What You Eat, [Wired](https://www.wired.com/story/emteq-smart-glasses-read-emotions-watch-what-you-eat/).
+  year: 2024
+  type: media
+  theme: null
+  projects: []
+  url: https://www.wired.com/story/emteq-smart-glasses-read-emotions-watch-what-you-eat/
+  key: false
+  lab: true
+- cite: McStay, A interview (2024) Are you 80% angry and 2% sad? Why ‘emotional AI’ is fraught with problems, *The Guardian*​.
+  year: 2024
+  type: media
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: 'McStay, A. video, Guest Lecture for IEEE on "Automating Empathy in Human-AI Partnerships: Issues, Ethics and Governance"'
+  year: 2021
+  type: media
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A interview (2024) A tour of “emotionally intelligent” AI​, MPR Marketplace
+  year: 2024
+  type: media
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A interview (2022) [The Intercept. Documents Reveal Advanced Ai Tools Google Is Selling To Israel](https://theintercept.com/2022/07/24/google-israel-artificial-intelligence-project-nimbus/).
+  year: 2022
+  type: media
+  theme: null
+  projects: []
+  url: https://theintercept.com/2022/07/24/google-israel-artificial-intelligence-project-nimbus/
+  key: false
+  lab: false
+- cite: McStay, A interview (2022) *NBC News*. [Microsoft is removing emotion recognition features from its facial recognition tech](https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087)
+  year: 2022
+  type: media
+  theme: sensing
+  projects: []
+  url: https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087
+  key: false
+  lab: false
+- cite: McStay, A interview (2022) *Techmonitor*. [Emotion recognition is mostly ineffective. Why are companies still investing in it?](https://techmonitor.ai/technology/emerging-technology/emotion-recognition)
+  year: 2022
+  type: media
+  theme: sensing
+  projects: []
+  url: https://techmonitor.ai/technology/emerging-technology/emotion-recognition
+  key: false
+  lab: false
+- cite: McStay, A cited (2022) *Business am live*, [Emotional AI and the privacy implications](https://www.businessamlive.com/emotional-ai-and-the-privacy-implications/)
+  year: 2022
+  type: media
+  theme: governing
+  projects: []
+  url: https://www.businessamlive.com/emotional-ai-and-the-privacy-implications/
+  key: false
+  lab: false
+- cite: McStay, A interview/project profile (2021) *Vodafone news*, [Should you let your children play with emotionally-intelligent toys?](https://newscentre.vodafone.co.uk/digital-parenting/should-you-let-your-children-play-with-emotionally-intelligent-toys/)
+  year: 2021
+  type: media
+  theme: sensing
+  projects:
+  - children
+  url: https://newscentre.vodafone.co.uk/digital-parenting/should-you-let-your-children-play-with-emotionally-intelligent-toys/
+  key: false
+  lab: false
+- cite: McStay, A interview (2021) *Washington post,* [China’s lonely hearts reboot online romance with artificial intelligence](https://www.washingtonpost.com/world/2021/08/06/china-online-dating-love-replika/)
+  year: 2021
+  type: media
+  theme: simulating
+  projects:
+  - companions
+  url: https://www.washingtonpost.com/world/2021/08/06/china-online-dating-love-replika/
+  key: false
+  lab: false
+- cite: 'McStay, A interview (2021) *Financial Times*, [Emotion recognition: can AI detect human feelings from a face?](https://www.ft.com/content/c0b03d1d-f72f-48a8-b342-b4a926109452)'
+  year: 2021
+  type: media
+  theme: sensing
+  projects: []
+  url: https://www.ft.com/content/c0b03d1d-f72f-48a8-b342-b4a926109452
+  key: false
+  lab: false
+- cite: 'McStay, A. (2021) [hello Automated Empathy](https://technologyandsociety.org/hello-automated-empathy/), *Technology and Society: the IEEE Society on Social Implications of Technology*.'
+  year: 2021
+  type: media
+  theme: simulating
+  projects: []
+  url: https://technologyandsociety.org/hello-automated-empathy/
+  key: false
+  lab: false
+- cite: The Globe and Mail (2021) [NuraLogix’s work on public surveillance tools raises concerns about cooperating with firms tied to Chinese government](https://www.theglobeandmail.com/world/article-nuralogixs-work-on-public-surveillance-tools-raises-concerns-about/) (interview input from McStay)
+  year: 2021
+  type: media
+  theme: governing
+  projects: []
+  url: https://www.theglobeandmail.com/world/article-nuralogixs-work-on-public-surveillance-tools-raises-concerns-about/
+  key: false
+  lab: false
+- cite: The Telegraph (2021) [How HR departments impose tech tyranny in the woke workplace](https://www.telegraph.co.uk/business/2021/03/12/hr-departments-impose-tech-tyranny-woke-workplace/) (interview input from McStay and the Lab)
+  year: 2021
+  type: media
+  theme: sensing
+  projects: []
+  url: https://www.telegraph.co.uk/business/2021/03/12/hr-departments-impose-tech-tyranny-woke-workplace/
+  key: false
+  lab: true
+- cite: UNICEF (2020) [Policy guidance on AI for children](https://www.unicef.org/globalinsight/reports/policy-guidance-ai-children) (input from McStay on Emotional AI)
+  year: 2020
+  type: policy
+  theme: sensing
+  projects:
+  - children
+  url: https://www.unicef.org/globalinsight/reports/policy-guidance-ai-children
+  key: false
+  lab: true
+- cite: 'Centre for Data Ethics and Innovation (2020) [Snapshot Series: Facial Recognition Technology](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/887866/Facial_Recognition_Technology.pdf) (interview input from McStay)'
+  year: 2020
+  type: policy
+  theme: governing
+  projects: []
+  url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/887866/Facial_Recognition_Technology.pdf
+  key: false
+  lab: true
+- cite: Svenska Dagbladet (2020) [The machines are increasingly wondering how you feel](https://svd.se/maskinerna-undrar-allt-mer-hur-du-mar), by victor galaz (an essay on McStay’s book ‘Emotional AI’.
+  year: 2020
+  type: media
+  theme: null
+  projects: []
+  url: https://svd.se/maskinerna-undrar-allt-mer-hur-du-mar
+  key: false
+  lab: false
+- cite: Big Data Value (an EU policy/industry group) (2020) [Turn That Frown Upside Down – Emotional Ai And Regulation](https://www.big-data-value.eu/turn-that-frown-upside-down-emotional-ai-and-regulation/ ). (McStay and emotional AI subject of interview).
+  year: 2020
+  type: media
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'i News (2020) [Clearview AI: why the controversial facial recognition technology should be a concern for the UK, according to experts](https://inews.co.uk/news/technology/clearview-ai-facial-recognition-technology-uk-explained-1555522) (Quotes from McStay)'
+  year: 2020
+  type: media
+  theme: sensing
+  projects: []
+  url: https://inews.co.uk/news/technology/clearview-ai-facial-recognition-technology-uk-explained-1555522
+  key: false
+  lab: false
+- cite: Novara Media (2020) [AI Border Guards are Being Tested at the Edge of Fortress Europe, Away From Public Scrutiny](https://novaramedia.com/2019/12/04/15957/) (extended interview input from McStay)
+  year: 2020
+  type: media
+  theme: null
+  projects: []
+  url: https://novaramedia.com/2019/12/04/15957/
+  key: false
+  lab: false
+- cite: Bakir, v. and McStay, a. (2019) [Reality TV, Emotional AI and Governance of Digital Futures](https://www.upen.ac.uk/blogs/?action=story&id=79), Universities policy engagement network
+  year: 2019
+  type: media
+  theme: governing
+  projects: []
+  url: https://www.upen.ac.uk/blogs/?action=story&id=79
+  key: false
+  lab: false
+- cite: The Guardian (2019) [AI can read your emotions. Should it?](https://www.theguardian.com/technology/2019/aug/17/emotion-ai-artificial-intelligence-mood-realeyes-amazon-facebook-emotient) (extended interview input from McStay)
+  year: 2019
+  type: media
+  theme: sensing
+  projects: []
+  url: https://www.theguardian.com/technology/2019/aug/17/emotion-ai-artificial-intelligence-mood-realeyes-amazon-facebook-emotient
+  key: false
+  lab: false
+- cite: MIT Tech Review (2019) [AI could be your wingman—er, wingbot—on your next first date](https://www.technologyreview.com/s/614031/ai-could-be-your-wingmaner-wingboton-your-next-first-date/) (extended interview input from McStay)
+  year: 2019
+  type: media
+  theme: null
+  projects: []
+  url: https://www.technologyreview.com/s/614031/ai-could-be-your-wingmaner-wingboton-your-next-first-date/
+  key: false
+  lab: false
+- cite: Re.work (2018) [privacy and security in AI](http://reworkco.domain.com/PrivacySecurityinAIWhitePaper2018.pdf) (Introduction and input from McStay on ethics, bias and data about emotions)
+  year: 2018
+  type: media
+  theme: governing
+  projects: []
+  url: http://reworkco.domain.com/PrivacySecurityinAIWhitePaper2018.pdf
+  key: false
+  lab: false
+- cite: Scientific American (2018) [Alexa, What Are Doing with My Family's Personal Info?](https://www.scientificamerican.com/article/alexa-what-are-you-doing-with-my-familys-personal-info/) (extended interview input from McStay)
+  year: 2018
+  type: media
+  theme: null
+  projects: []
+  url: https://www.scientificamerican.com/article/alexa-what-are-you-doing-with-my-familys-personal-info/
+  key: false
+  lab: false
+- cite: RE.Work (2018) [The Ethical Implications of AI](http://reworkco.domain.com/TheEthicalImplicationsofAIREWORK2018.pdf) (Input from McStay on ethics, bias and data about emotions)
+  year: 2018
+  type: media
+  theme: governing
+  projects: []
+  url: http://reworkco.domain.com/TheEthicalImplicationsofAIREWORK2018.pdf
+  key: false
+  lab: false
+- cite: 'Taylor, S.T. (Lead editor) (2018) [Opinion Forming in the Digital Age: Fake News, Echo Chambers and Populism - Key Themes, Concerns & Recommendations for European Research and Innovation](https://research.bangor.ac.uk/portal/files/22190899/Opinion_Forming_in_the_Digital_Age_Public_Recommendations_v1.0.pdf) (MCStay part of expert panel and delphi-based PUBLICATION)'
+  year: 2018
+  type: report
+  theme: simulating
+  projects:
+  - disinformation
+  url: https://research.bangor.ac.uk/portal/files/22190899/Opinion_Forming_in_the_Digital_Age_Public_Recommendations_v1.0.pdf
+  key: false
+  lab: true
+- cite: McStay, A. (2017) [Tech firms want to detect your emotions and expressions, but people don’t like it](http://blogs.lse.ac.uk/mediapolicyproject/2017/07/11/tech-firms-want-to-detect-your-emotions-and-expressions-but-people-dont-like-it/) (LSE policy blog)
+  year: 2017
+  type: media
+  theme: governing
+  projects: []
+  url: http://blogs.lse.ac.uk/mediapolicyproject/2017/07/11/tech-firms-want-to-detect-your-emotions-and-expressions-but-people-dont-like-it/
+  key: false
+  lab: false
+- cite: Rosner, G. (Director of Internet of Things Privacy Forum (2017) The IoT Privacy Threat Landscape, National Institute of Standards and Technology (USA). [Video discussion of McStay and emotional AI](https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/684682/uiconf_id/33598632/entry_id/0_1cz8m7b9/embed/dynamic#t=03:00).
+  year: 2017
+  type: media
+  theme: governing
+  projects: []
+  url: https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/684682/uiconf_id/33598632/entry_id/0_1cz8m7b9/embed/dynamic#t=03:00
+  key: false
+  lab: false
+- cite: 'McStay, A. (2017) [Wearables-at-work: Quantifying the emotional self](https://www.researchgate.net/profile/Andrew_Mcstay2/publication/317490573_Wearables-at-work_quantifying_the_emotional_self/links/593b9692a6fdcc17a9bab58e/Wearables-at-work-quantifying-the-emotional-self.pdf) (Privacy Laws & Business).'
+  year: 2017
+  type: media
+  theme: governing
+  projects: []
+  url: https://www.researchgate.net/profile/Andrew_Mcstay2/publication/317490573_Wearables-at-work_quantifying_the_emotional_self/links/593b9692a6fdcc17a9bab58e/Wearables-at-work-quantifying-the-emotional-self.pdf
+  key: false
+  lab: false
+- cite: Bakir, V. & McStay, A. (2017) [*Was it ‘AI wot won it’? Hyper-targeting and profiling emotions online*](http://www.electionanalysis.uk/uk-election-analysis-2017/section-5-the-digital-campaign/was-it-ai-wot-won-it-hyper-targeting-and-profiling-emotions-online/)*.* Political Studies Association.
+  year: 2017
+  type: media
+  theme: simulating
+  projects:
+  - disinformation
+  url: http://www.electionanalysis.uk/uk-election-analysis-2017/section-5-the-digital-campaign/was-it-ai-wot-won-it-hyper-targeting-and-profiling-emotions-online/
+  key: false
+  lab: false
+- cite: 'Bakir, V. and McStay, A. (2017) [Combatting fake news: analysis of submissions to the fake news inquiry](http://www.meccsa.org.uk/news/three-d-issue-28-combatting-fake-news-analysis-of-submissions-to-the-fake-news-inquiry/). MeCCSA Three-D Issue 28'
+  year: 2017
+  type: media
+  theme: simulating
+  projects:
+  - disinformation
+  url: http://www.meccsa.org.uk/news/three-d-issue-28-combatting-fake-news-analysis-of-submissions-to-the-fake-news-inquiry/
+  key: false
+  lab: false
+- cite: McStay, A. (2016) [THE DO’S AND DON’T OF EMOTION CAPTURE:](https://drive.google.com/file/d/1PLkQoRBOdrY76upAXFV8m7EYeTSDe33N/view?usp=sharing) [AN OVERVIEW OF EXPERT DISCUSSION AND SUGGESTIONS FROM Digital Catapult WORKSHOP](https://drive.google.com/file/d/1PLkQoRBOdrY76upAXFV8m7EYeTSDe33N/view?usp=sharing).
+  year: 2016
+  type: report
+  theme: null
+  projects: []
+  url: https://drive.google.com/file/d/1PLkQoRBOdrY76upAXFV8m7EYeTSDe33N/view?usp=sharing
+  key: false
+  lab: true
+- cite: McStay, A. (2016) [What's in a Smile?](http://onlinelibrary.wiley.com/doi/10.1002/rwm3.20396/full) Research World/ESOMAR.
+  year: 2016
+  type: media
+  theme: sensing
+  projects: []
+  url: http://onlinelibrary.wiley.com/doi/10.1002/rwm3.20396/full
+  key: false
+  lab: false
+- cite: 'McStay, A. (2015) [Empathic Media: Advertising that Tracks Your Mood](http://sparksheet.com/empathetic-media-advertising-that-tracks-your-mood/) (WPP/Sparksheet)'
+  year: 2015
+  type: media
+  theme: simulating
+  projects: []
+  url: http://sparksheet.com/empathetic-media-advertising-that-tracks-your-mood/
+  key: false
+  lab: false
+- cite: McStay, A. (2026) Privacy, Confidentiality and Human–Machine Communication — Privacy Symposium, Venice.
+  year: 2026
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2026) AI Companions and Online Safety — Ofcom, London.
+  year: 2026
+  type: talk
+  theme: simulating
+  projects:
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2026) Growing Up with Chatbots — Digital Regulation Cooperation Forum, London.
+  year: 2026
+  type: talk
+  theme: simulating
+  projects:
+  - companions
+  - children
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2026) AI Companions and the Challenge of Governing Systems That Seem to Think and Feel — Utrecht University (Humanistic Studies), Utrecht.
+  year: 2026
+  type: talk
+  theme: simulating
+  projects:
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: 'McStay, A. (2025) Empathic AI at the Edge of Law: Companions, Governance Gaps and the Role of Technical Standards, China University of Political Science and Law, Beijing.'
+  year: 2025
+  type: talk
+  theme: governing
+  projects:
+  - gpai-standards
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2025) A nascent standard for Social AI – P7014.1, Leverhulme Centre for the Future of Intelligence, Cambridge UK.
+  year: 2025
+  type: talk
+  theme: governing
+  projects:
+  - gpai-standards
+  url: null
+  key: false
+  lab: true
+- cite: 'McStay, A. (2025) Artificial Intimacy, Real Risks: From Public Concerns to Technical Standards, Microsoft, Cambridge UK.'
+  year: 2025
+  type: talk
+  theme: governing
+  projects:
+  - gpai-standards
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2025) Emotions and Digital Regulation and Strategy in the EU, EUDTP, European Parliament.
+  year: 2025
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: 'McStay, A. (2025) The Ethical Implications of Empathic AI: Governance, Standards, and Public Trust, University of Swansea.'
+  year: 2025
+  type: talk
+  theme: simulating
+  projects:
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2025) Emotional AI Children, Companions and AI Empathy, Better Internet for Kids, European Commission, Amsterdam.
+  year: 2025
+  type: talk
+  theme: simulating
+  projects:
+  - companions
+  - children
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2025) Moving fast and breaking people? Empathic AI companions and UK citizen perspectives, BRAID, University of Edinburgh
+  year: 2025
+  type: talk
+  theme: simulating
+  projects:
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2025) Moving fast and breaking people? Empathic AI companions and UK citizen perspectives, University of Sussex
+  year: 2025
+  type: talk
+  theme: simulating
+  projects:
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2024) Soft Law Standards for Technologies that Gauge Intimate Life, Infosys and British High Commission, Bengaluru.
+  year: 2024
+  type: talk
+  theme: governing
+  projects:
+  - gpai-standards
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2024) When is Deception OK? Ethical Considerations of Emulated Empathy in AI (IEEE P7014.1). ISTAS, IEEE.
+  year: 2024
+  type: talk
+  theme: governing
+  projects:
+  - gpai-standards
+  url: null
+  key: false
+  lab: true
+- cite: 'McStay, A. (2024) Automating Empathy in Human-AI Partnerships: Issues, Ethics and Governance, IEEE Global lecture.'
+  year: 2024
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2024) BBC AI/Machine Learning community on AI companions and empathy.
+  year: 2024
+  type: talk
+  theme: simulating
+  projects:
+  - companions
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2024) Automating Empathy, Establishing Standards and Good Governance, FENS-Chen Neuroscience Summer School, University of Lausanne.
+  year: 2024
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: true
+- cite: 'McStay, A. (2024) Automating Empathy: Developing Cross-Cultural Soft Law Standards for Artificial Partners based on Foundational AI, China University of Politics and Law, Beijing.'
+  year: 2024
+  type: talk
+  theme: governing
+  projects:
+  - gpai-standards
+  - ukjapan
+  url: null
+  key: false
+  lab: true
+- cite: McStay, A. (2023) Replika in the Metaverse. QUB/MMU/DCMS.
+  year: 2023
+  type: talk
+  theme: simulating
+  projects:
+  - companions
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. (2022) [AI Ethics and Emotion Recognition.](https://dids.rs/archive/dids-2022/) Serbian National Internet Domain Name Registry Foundation (DIDS 2022 CONFERENCE).
+  year: 2022
+  type: talk
+  theme: governing
+  projects: []
+  url: https://dids.rs/archive/dids-2022/
+  key: false
+  lab: false
+- cite: McStay, A. (2022) [Intelligent Machines, Emotions and Our Planet](https://beijer.kva.se/news-item/digital-conference/), Swedish Royal Academy of Sciences.
+  year: 2022
+  type: talk
+  theme: null
+  projects: []
+  url: https://beijer.kva.se/news-item/digital-conference/
+  key: false
+  lab: false
+- cite: McStay, A. (2021) [Emotional Artificial Intelligence and Regulation of Content Recommendation Systems](https://digilab.instifdt.bg.ac.rs?p=2571), Digital Society Lab. Belgrade.
+  year: 2021
+  type: talk
+  theme: governing
+  projects: []
+  url: https://digilab.instifdt.bg.ac.rs?p=2571
+  key: false
+  lab: true
+- cite: 'McStay, A. (2021) [Gauging civic feeling of emotion recognition: ethics, policy, and citizen opinion](https://uclic.ucl.ac.uk/news-events-seminars/uclic-research-seminar-24th-november-andrew-McStay-gauging-civic-feeling-of-emotion-recognition-ethics-policy-and-citizen-opinion), UCLIC, University College London.'
+  year: 2021
+  type: talk
+  theme: governing
+  projects: []
+  url: https://uclic.ucl.ac.uk/news-events-seminars/uclic-research-seminar-24th-november-andrew-McStay-gauging-civic-feeling-of-emotion-recognition-ethics-policy-and-citizen-opinion
+  key: false
+  lab: false
+- cite: 'McStay, A. (2021) Automating Empathy: Trajectory, Implications and Citizen Views, University of Edinburgh.'
+  year: 2021
+  type: talk
+  theme: simulating
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A. (2021) *Automating Empathy: Social Impact, Mediated Emotion and Subjectivity*, [IEEE SSIT Special lecture](https://technologyandsociety.org/event/ieee-ssit-lecture-automating-empathy/).'
+  year: 2021
+  type: talk
+  theme: simulating
+  projects: []
+  url: https://technologyandsociety.org/event/ieee-ssit-lecture-automating-empathy/
+  key: false
+  lab: false
+- cite: McStay, A. (2021) *Mediated Empathy and Creativity*, Falmouth University, UK.
+  year: 2021
+  type: talk
+  theme: simulating
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A. (2020) *Emotional AI: a Q&A*, IULM University of Milan, Italy.'
+  year: 2020
+  type: talk
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'Bakir, V. (2020) COVID-19: How can we communicate risk in a post-truth world? Department of Philosophy, Unesp/Brazil. [Online](https://youtu.be/moAcU0LEkg0).'
+  year: 2020
+  type: talk
+  theme: null
+  projects: []
+  url: https://youtu.be/moAcU0LEkg0
+  key: false
+  lab: false
+- cite: Urquhart, L. (2020) *Emotion and FACIAL RECOGNITION*, OPEN RIGHTS GROUP. [ONLINE](https://youtu.be/ISLERnHtVDU).
+  year: 2020
+  type: talk
+  theme: governing
+  projects: []
+  url: https://youtu.be/ISLERnHtVDU
+  key: false
+  lab: false
+- cite: McStay, A. (2020) *Emotional AI and Ethics,* Co-speaker ben Bland (IEEE/Sensum), chair Pam pavliscak, School of information, Pratt Institute, New York.
+  year: 2020
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A. (2020) Feeling-into Everyday Life: Empathic Technologies and Ontology, [Russian Academy of Sciences and URAL University](https://gaugn.ru/ru-ru/media/ii-in-new-reality-2020?fbclid=IwAR3d8KGz6Wy8g6wnSv6c1yxS-4JdUbBPxIImuf-cpQm1TRspp_0JgLu8xIw), Moscow.'
+  year: 2020
+  type: talk
+  theme: simulating
+  projects: []
+  url: https://gaugn.ru/ru-ru/media/ii-in-new-reality-2020?fbclid=IwAR3d8KGz6Wy8g6wnSv6c1yxS-4JdUbBPxIImuf-cpQm1TRspp_0JgLu8xIw
+  key: false
+  lab: false
+- cite: 'McStay, A. (2020) Empathic Technologies: Landscape, Ethics, Citizens*.* [*Emotion AI Conference*](https://emotionai20.com/)*,* New York'
+  year: 2020
+  type: talk
+  theme: governing
+  projects: []
+  url: https://emotionai20.com/
+  key: false
+  lab: false
+- cite: 'Bakir, V. and McStay, A. (2020)Empathic Technologies: Mediated emotion during COVID-19 (and after)*,* A Global Digital Publics Network (GDPN) event in collaboration with the [Emotional AI Lab,](https://emotionalai.org/so-what-is-emotional-ai) the network for [Media & Persuasive Communication](http://mpc.bangor.ac.uk/index.php.en), [Alfred Deakin Institute for Citizenship and Globalization](https://www.deakin.edu.au/adi) and the Fame and Persona Research Consortium.'
+  year: 2020
+  type: talk
+  theme: simulating
+  projects: []
+  url: https://emotionalai.org/so-what-is-emotional-ai
+  key: false
+  lab: true
+- cite: Bakir, V. and McStay, A. (2020) Regulating Disinformation in Context of Modulated Emotion*,* Sussex Centre for Information Governance Research.
+  year: 2020
+  type: talk
+  theme: simulating
+  projects:
+  - disinformation
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. and Pamela Pavliscak (2020) A Principled Approach to the Emotion Economy, *SxSW*, Austin, USA.
+  year: 2020
+  type: talk
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A. (2020) *emotional AI and empathic technologies: RIGHTS, CHILDREN AND DOMESTICATION* [PANEL ORGANISER/MODERATOR) [CPDP](https://www.youtube.com/watch?v=NEkOg9WXCgw), BRUSSELS, BELGIUM.'
+  year: 2020
+  type: talk
+  theme: sensing
+  projects:
+  - children
+  url: https://www.youtube.com/watch?v=NEkOg9WXCgw
+  key: false
+  lab: false
+- cite: McStay, A. (2019) *The Rise of Empathic Technologies,* [EURA Center of Excellence Regulation of Robotics and Artificial Intelligence](https://www.eura.santannapisa.it/event/human-robot-interaction-between-trust-and-deception), Pisa, Italy.
+  year: 2019
+  type: talk
+  theme: governing
+  projects: []
+  url: https://www.eura.santannapisa.it/event/human-robot-interaction-between-trust-and-deception
+  key: false
+  lab: false
+- cite: McStay, A. (2019) *Ethics fatigue? Emotional AI, citizen perspectives & implications for MarTech* (2019) International Conference on Affective Computing & Intelligent Interaction (ACII 2019)( [Social & Emotion AI for Industry](http://seaixi.neurodatalab.com)), UNIVERSITY of Cambridge, UK.
+  year: 2019
+  type: talk
+  theme: governing
+  projects: []
+  url: http://seaixi.neurodatalab.com
+  key: false
+  lab: false
+- cite: 'McStay, A. (2019) *emotional AI, ethics and workplace automation*, [CIPD: FESTIVAL of Work](https://www.festivalofwork.com/speakers/), Haymarket Media, London.'
+  year: 2019
+  type: talk
+  theme: governing
+  projects: []
+  url: https://www.festivalofwork.com/speakers/
+  key: false
+  lab: false
+- cite: McStay, A. (2019) *Challenges of the (Post)Digital Age (Izazovi (Post)digitalnog doba)*, Belgrade, Serbia.
+  year: 2019
+  type: talk
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A. (2019) *Spilling into the city: ai and advertising* (2019/forthcoming) goldsmiths, university of london.'
+  year: 2019
+  type: talk
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A. (2019) *Emotiveillance: Smart Advertising, Retail and the Privacy Problem*, Liverpool Screen School, LJMU.'
+  year: 2019
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. (2018) *Intimacy in the age of ARTIFICIAL intelligence*, Grounded festival, Ljubljana, Slovenia.
+  year: 2018
+  type: talk
+  theme: simulating
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A. (2018) *Intimacy and the Civic Body: Emotional AI and the City*, Information Law and Policy Centre, London.'
+  year: 2018
+  type: talk
+  theme: simulating
+  projects:
+  - disinformation
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. (2018) *Emotional AI:Nature, Form, Ethics, Governance,* School of information, Pratt Institute, New York.
+  year: 2018
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. (2018) *Symposium/Roundtable on ‘AI and Creative Practice’*, Bond University, Queensland, Australia.
+  year: 2018
+  type: talk
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. (2018) *Emotional AI and urbanism* (2018)tickbirdandrhino, Stockwool architecture, london.
+  year: 2018
+  type: talk
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A. (2018) *All Smiles? Emotional AI, Voice-First, Ethics, Citizens and Ubiquitous Feeling-Into* (2018) #ReworkAI, San Francisco.'
+  year: 2018
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. *(*2018) *Understanding the Significance of Emotional AI and Empathic Medi*a, New Lines of (In)Sight, CRISP, University of Stirling.
+  year: 2018
+  type: talk
+  theme: simulating
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: Bakir, V. and McStay, A. (2017) *Fake news, advertising and emotion profiling*, Houses of Westminster, London.
+  year: 2017
+  type: talk
+  theme: simulating
+  projects:
+  - disinformation
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A.(2017) *Empathic Media: The Case of Advertising*, CPDP, Brussels.'
+  year: 2017
+  type: talk
+  theme: simulating
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. (2016) *Empathic Media and Gaming*, MediaX, Stanford University, US.
+  year: 2016
+  type: talk
+  theme: simulating
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A. (2016) *Empathic Media: From Questions of Privacy to Intimacy*, ICA, Fukuoka, Japan.'
+  year: 2016
+  type: talk
+  theme: sensing
+  projects:
+  - ukjapan
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A. (2016) *Researching Empathic Media: Corporate Access, Methods and Ethics,* Researching Hidden Power conference, University of Sheffield.'
+  year: 2016
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. (2016) *Empathic Media and Advertising*,*,* LCC conference on Future of Advertising, University of the Arts London.
+  year: 2016
+  type: talk
+  theme: simulating
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'McStay, A. (2016) *Empathic Media: At Work*, Society for Computers and Law, London, 11KB.'
+  year: 2016
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. *Empathic Media and Consent* (2016) Digital Catapult, London.
+  year: 2016
+  type: talk
+  theme: simulating
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'Bakir and McStay (2016) *Veillant Media: ‘Veillant Panoptic Assemblage and Emotiveillance*,Department of Computer Engineering, University of Toronto.'
+  year: 2016
+  type: talk
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. (2015) *What of Consent in an Age of Empathic Media*, Meaningful Consent workshop, University of Southampton.
+  year: 2015
+  type: talk
+  theme: simulating
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. (2015) *Empathic media and Cultural Mediations of Transparency,* DATAPSST!, ESRC Seminar. Kings College London.
+  year: 2015
+  type: talk
+  theme: simulating
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A.(2014) *Towards an Understanding of Emotional Analytics*, Marketing Communications Society, University of Greenwich, London.
+  year: 2014
+  type: talk
+  theme: null
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: mcstaY, A. (2014) *Exploring the Pharmacology of Empathic Media*, Centre for the Study of Science and Imagination, University of Westminster, London.
+  year: 2014
+  type: talk
+  theme: simulating
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: 'mcstaY, A. (2014) *Toward Empathic Media: Key questions on Privacy, Surveillance & Governance,* ESRC funded workshop on Privacy, Surveillance and Governance in the Digital Society, University of Sheffield.'
+  year: 2014
+  type: talk
+  theme: governing
+  projects: []
+  url: null
+  key: false
+  lab: false
+- cite: Raising Generation AI,[Do I need to worry about my son’s AI companion?](https://raisinggenerationai.com/do-i-need-to-worry-about-my-sons-ai-companion/)
+  year: null
+  type: media
+  theme: simulating
+  projects:
+  - companions
+  - children
+  url: https://raisinggenerationai.com/do-i-need-to-worry-about-my-sons-ai-companion/
+  key: false
+  lab: false
+- cite: ABC Australia, *Future Tense*, [The positive side of monitoring](https://www.abc.net.au/radionational/programs/futuretense/the-positive-side-of-monitoring/13584416).
+  year: null
+  type: media
+  theme: null
+  projects: []
+  url: https://www.abc.net.au/radionational/programs/futuretense/the-positive-side-of-monitoring/13584416
+  key: false
+  lab: false
+- cite: Critical Technology podcast, [Kids and Emotional AI](https://music.amazon.com/podcasts/4aa13253-dda3-410e-a88c-ceb852cbdc13/episodes/6002113b-2ace-464f-967f-a6a7a8a78529/critical-technology-kids-and-emotional-ai).
+  year: 2022
+  type: media
+  theme: sensing
+  projects:
+  - children
+  url: https://music.amazon.com/podcasts/4aa13253-dda3-410e-a88c-ceb852cbdc13/episodes/6002113b-2ace-464f-967f-a6a7a8a78529/critical-technology-kids-and-emotional-ai
+  key: false
+  lab: false
+- cite: The Machine Ethics Podcast, [Emotion detection with Andrew McStay](https://www.machine-ethics.net/podcast/emotion-detection-with-andrew-McStay/)
+  year: null
+  type: media
+  theme: governing
+  projects: []
+  url: https://www.machine-ethics.net/podcast/emotion-detection-with-andrew-McStay/
+  key: false
+  lab: false
+- cite: '[CityScape podcast](https://peloton-events.co.uk/podcasts/ ), McStay interview on the ethical implications of the deployment of emotional AI in smart cities'
+  year: 2020
+  type: media
+  theme: sensing
+  projects:
+  - ukjapan
+  url: null
+  key: false
+  lab: false
+- cite: McStay, A. 2019, Kulturni dnevnik (TV RTS, Serbia), [video](https://youtu.be/_2wGN8fRPfE?t=2530)
+  year: 2019
+  type: media
+  theme: null
+  projects: []
+  url: https://youtu.be/_2wGN8fRPfE?t=2530
+  key: false
+  lab: false
+- cite: McStay, A. 2019, Studio City, RTV Slovenija, [Video](https://4d.rtvslo.si/arhiv/studio-city/174589402)
+  year: 2019
+  type: media
+  theme: null
+  projects: []
+  url: https://4d.rtvslo.si/arhiv/studio-city/174589402
+  key: false
+  lab: false
+- cite: McStay, A. 2018, Drawing the Line, Sensum, [video](https://www.youtube.com/watch?v=HKpuSPLOr8Q)
+  year: 2018
+  type: media
+  theme: null
+  projects: []
+  url: https://www.youtube.com/watch?v=HKpuSPLOr8Q
+  key: false
+  lab: false

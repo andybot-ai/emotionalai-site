@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="wrap list-page">
+  <header class="page-head"><span class="mono">{{ len .Pages }} posts since 2019</span><h1>News</h1></header>
+  <ul class="nlist" style="margin-top:32px">{{ range .Paginator.Pages }}<li><a href="{{ .RelPermalink }}"><span class="d">{{ .Date.Format "2 Jan 2006" }}</span><span class="t">{{ .Title }}</span></a></li>{{ end }}</ul>
+  {{ with .Paginator }}{{ if gt .TotalPages 1 }}<nav class="pager" aria-label="Pages">{{ if .HasPrev }}<a href="{{ .Prev.URL }}">← Newer</a>{{ end }}<span class="mono">Page {{ .PageNumber }} of {{ .TotalPages }}</span>{{ if .HasNext }}<a href="{{ .Next.URL }}">Older →</a>{{ end }}</nav>{{ end }}{{ end }}
+</div>
+{{ end }}

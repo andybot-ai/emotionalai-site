@@ -1,0 +1,36 @@
+baseURL = "https://emotionalai.org/"
+languageCode = "en-gb"
+title = "Emotional AI Lab"
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "The Emotional AI Lab at Bangor University studies what it means to live with emotionally responsive AI, and how it should be governed."
+  # TODO: confirm the Lab contact email, then add it here (it appears in the footer).
+  email = ""
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[pagination]
+  pagerSize = 24
+
+[[menus.main]]
+  name = "What is emotional AI?"
+  url = "/so-what-is-emotional-ai"
+  weight = 1
+[[menus.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
+[[menus.main]]
+  name = "Outputs"
+  url = "/writing/talks"
+  weight = 3
+[[menus.main]]
+  name = "News"
+  url = "/news/"
+  weight = 4
+[[menus.main]]
+  name = "Team"
+  url = "/team"
+  weight = 5

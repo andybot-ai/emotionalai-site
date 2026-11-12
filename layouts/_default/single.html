@@ -1,0 +1,6 @@
+{{ define "main" }}{{ $c := .Content }}{{ $hasH1 := findRE `^\s*<h1` $c 1 }}
+<article class="wrap">
+  {{ if not $hasH1 }}<header class="page-head"><h1>{{ .Title }}</h1></header>{{ end }}
+  <div class="prose">{{ $c }}</div>
+</article>
+{{ end }}

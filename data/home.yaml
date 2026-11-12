@@ -1,0 +1,51 @@
+hero:
+  eyebrow: "Bangor University, Wales"
+  title: "What it means to live with emotionally responsive AI."
+  lede: "Machines are learning to read our faces, voices and words, and to answer as if they care. We study what that does to people, and how it should be governed."
+  caption: "Emotional AI maps feelings onto grids like this one. The machine sees calm; the person feels tense. That gap is what we study."
+what:
+  - key: sensing
+    label: "01 · Sensing"
+    big: "It reads us"
+    text: "Cameras, microphones, wearables and text analysis infer moods and intentions, in cars, classrooms, call centres, toys and public spaces."
+  - key: simulating
+    label: "02 · Simulating"
+    big: "It answers as if it cares"
+    text: "Chatbots, AI companions and ghostbots emulate empathy, sometimes by design and sometimes simply as a by-product of how they're built."
+  - key: governing
+    label: "03 · Governing"
+    big: "It needs rules"
+    text: "Law, regulation, technical standards and public understanding all have a part to play. We work on each, from the EU AI Act to IEEE 7014.1."
+film:
+  title: "Automating Empathy… the movie"
+  text: "A short animated film on AI companions and emulated empathy. Animation and design by Conor Flanagan, paper art and stop motion by Maria Figueiredo, written and narrated by Ben Bland, music and sound by Steve and Dave Elton."
+  youtube: "tGQqTd6b4gM"
+  link: "/short-film-on-companions"
+reports:
+  - label: "Report · Apr 2026"
+    title: "Weaponised Empathy: AI Scams & the Nigeria–UK Response"
+    url: "/news/2026/10/21/weaponised-empathy-new-report-on-ai-scams-and-the-nigeriauk-response"
+    key: simulating
+  - label: "Report · Jan 2026"
+    title: "Do AI Companions Understand? Most UK Teens Say Yes"
+    url: "/news/2026/10/21/do-ai-companions-understand-most-uk-teens-say-yes"
+    key: simulating
+  - label: "Final report · 2024"
+    title: "Can we live well with Emotional AI? It depends"
+    url: "https://drive.google.com/file/d/1ffD-CxEuyDf2YxVVNXMYTg64eek-f8T7/view?usp=sharing"
+    key: sensing
+standard:
+  title: "IEEE 7014.1-2026"
+  text: "The international standard on ethical considerations for emulated empathy in general-purpose AI, chaired by Andrew McStay, with Lab members in the working group."
+  url: "/ieee-70141"
+# TODO: confirm who appears on the homepage and their roles. Full list is on the Team page.
+team:
+  - name: "Andrew McStay"
+    role: "Director"
+    initials: "AM"
+    colour: "#FF8A73"
+  - name: "Vian Bakir"
+    role: "Co-founder"
+    initials: "VB"
+    colour: "#FFC94D"
+funders: ["ESRC", "AHRC", "EPSRC", "Responsible AI UK", "Innovate UK", "JST", "HDI Network", "Office of the Privacy Commissioner of Canada"]

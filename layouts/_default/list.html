@@ -1,0 +1,5 @@
+{{ define "main" }}
+<div class="wrap list-page"><header class="page-head"><h1>{{ .Title }}</h1></header>
+<ul class="nlist" style="margin-top:32px">{{ range .Paginator.Pages }}<li><a href="{{ .RelPermalink }}"><span class="d">{{ if not .Date.IsZero }}{{ .Date.Format "2 Jan 2006" }}{{ end }}</span><span class="t">{{ .Title }}</span></a></li>{{ end }}</ul>
+</div>
+{{ end }}

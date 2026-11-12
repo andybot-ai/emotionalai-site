@@ -1,0 +1,6 @@
+<div class="three">{{ range slice "sensing" "simulating" "governing" }}{{ $g := . }}
+  <div class="plist"><span class="tag k-{{ $g }}">{{ upper $g }}</span>
+  <ul>{{ range (where (where site.RegularPages "Section" "projects") "Params.group" $g).ByWeight }}
+    <li><a href="{{ .RelPermalink }}"><span class="t">{{ .Title }}{{ if .Params.current }}<span class="badge">CURRENT</span>{{ end }}</span><span class="s">{{ .Params.summary }}</span></a></li>{{ end }}
+  </ul></div>{{ end }}
+</div>

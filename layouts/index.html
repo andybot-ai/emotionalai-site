@@ -1,0 +1,53 @@
+{{ define "main" }}{{ $h := hugo.Data.home }}
+<section class="wrap hero">
+  <div class="hero-text">
+    <div class="mono eyebrow">{{ $h.hero.eyebrow }}</div>
+    <h1>{{ $h.hero.title }}</h1>
+    <p class="lede">{{ $h.hero.lede }}</p>
+    <div class="actions"><a class="btn" href="/so-what-is-emotional-ai">What is emotional AI?</a><a class="link-u" href="/projects/">Our projects</a></div>
+  </div>
+  <figure>{{ partial "affect-grid.html" . }}<figcaption>{{ $h.hero.caption }}</figcaption></figure>
+</section>
+
+<section class="dark" id="what-is-emotional-ai"><div class="wrap sec">
+  <div class="sec-head"><h2>What is emotional AI?</h2><span class="mono">Three things it does</span></div>
+  <div class="three">{{ range $h.what }}
+    <div class="card-k k-{{ .key }}"><span class="mono">{{ .label }}</span><span class="big">{{ .big }}</span><p>{{ .text }}</p></div>{{ end }}
+  </div>
+</div></section>
+
+<section class="wrap sec">
+  <div class="sec-head"><h2>Projects</h2><a class="mono" href="/projects/">All projects →</a></div>
+  {{ partial "project-groups.html" . }}
+</section>
+
+<section class="film"><div class="wrap">
+  <div class="txt"><span class="mono">Short film</span><h2>{{ $h.film.title }}</h2><p>{{ $h.film.text }}</p></div>
+  <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/{{ $h.film.youtube }}" title="{{ $h.film.title }}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></section>
+
+<section class="wrap sec">
+  <div class="sec-head"><h2>Latest reports</h2><a class="mono" href="/writing/talks">All outputs →</a></div>
+  <div class="reports">{{ range $h.reports }}
+    <a class="report k-{{ .key }}" href="{{ .url }}"><span class="mono">{{ .label }}</span><span class="t">{{ .title }}</span></a>{{ end }}
+  </div>
+</section>
+
+<section class="ruled"><div class="wrap sec split">
+  <div><span class="tag k-governing">Standards</span><h2>{{ $h.standard.title }}</h2><p>{{ $h.standard.text }}</p><a class="btn" style="align-self:flex-start" href="{{ $h.standard.url }}">About the standard</a></div>
+  <div><span class="mono" style="color:var(--muted)">Latest news</span>
+    <ul class="nlist">{{ range first 4 (where site.RegularPages "Section" "news").ByDate.Reverse }}
+      <li><a href="{{ .RelPermalink }}"><span class="d">{{ .Date.Format "2 Jan 2006" }}</span><span class="t">{{ .Title }}</span></a></li>{{ end }}
+    </ul><a class="link-u" style="align-self:flex-start;padding:14px 0 4px" href="/news/">All news →</a></div>
+</div></section>
+
+<section class="ruled"><div class="wrap sec">
+  <div class="sec-head"><h2>Team</h2></div>
+  <div class="team">{{ range $h.team }}
+    <div class="person"><div class="av" style="background:{{ .colour | safeCSS }}" aria-hidden="true">{{ .initials }}</div><span class="n">{{ .name }}</span><span class="r mono">{{ .role }}</span></div>{{ end }}
+  </div>
+  <p class="team-more"><a href="/team">Team and collaborators →</a></p>
+</div></section>
+
+<section class="funders"><div class="wrap"><span class="mono">Funded by</span>{{ range $h.funders }}<span class="f">{{ . }}</span>{{ end }}</div></section>
+{{ end }}
