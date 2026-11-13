@@ -33,7 +33,7 @@ h1,h2,h3{font-family:var(--display);font-weight:700;font-stretch:85%;letter-spac
 .hero .eyebrow{color:var(--muted)}
 .actions{display:flex;flex-wrap:wrap;gap:14px;align-items:center}
 .hero figure{flex:1 1 400px;max-width:520px;margin:0;display:flex;flex-direction:column;gap:14px}
-.hero figcaption{font-family:var(--mono);font-size:13px;line-height:1.55;color:var(--muted)}
+.hero figcaption{font-family:var(--mono);font-size:14px;line-height:1.55;color:var(--muted)}
 /* sections */
 .sec{padding-top:88px;padding-bottom:88px}
 .sec-head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:36px}

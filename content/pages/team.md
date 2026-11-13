@@ -10,11 +10,11 @@ Lead: [Andrew McStay](https://www.bangor.ac.uk/music-and-media/staff/andrew-mcst
 
 ## **Team and collaborators**
 
-- [**Vian Bakir**](https://www.bangor.ac.uk/music-and-media/staff/vian-bakir/en), Professorof Political Communication & Journalism at Bangor University
+- [**Vian Bakir**](https://www.bangor.ac.uk/music-and-media/staff/vian-bakir/en), Professor of Political Communication & Journalism at Bangor University
 - [**Ben Bland**](https://www.linkedin.com/in/benbland/?originalSubdomain=uk), Independent and Chair of IEEE P7014 Group.
 
 - [**Ronan Devlin**](https://ronandevlin.com/artist/), independent digital artist
-- Professor[**Nader Ghotbi**](https://researcher.apu.ac.jp/apuhp/KgApp?Language=2&resId=S001455)**,** School of Asia Pacific Studies, Health and Science, Ritsumeikan Asia Pacific University
+- Professor [**Nader Ghotbi**](https://researcher.apu.ac.jp/apuhp/KgApp?Language=2&resId=S001455), School of Asia Pacific Studies, Health and Science, Ritsumeikan Asia Pacific University
 - Dr. [**Alex Laffer**](https://research.bangor.ac.uk/portal/en/researchers/alex-laffer(294739ca-7446-4bde-941f-98a48cd3623a).html?expertise=true&filter=staff&lastName=L&page=0), Lecturer at University of Winchester.
 - [**Phoebe Li**](https://profiles.sussex.ac.uk/p305243-phoebe-li), Professor in Law and Technology, University of Sussex
 - Dr. [**Tung Manh Ho**](https://www.acemap.info/authorDetail/1480165183)**,** Centre for Interdisciplinary Social Research, Phenikaa University, Hanoi
