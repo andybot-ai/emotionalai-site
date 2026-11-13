@@ -1,8 +1,17 @@
 hero:
-  eyebrow: "Bangor University, Wales"
   title: "What it means to live with emotionally responsive AI."
-  lede: "Machines are learning to read our faces, voices and words, and to answer as if they care. We study what that does to people, and how it should be governed."
+  lede: "Machines are learning to read our faces, voices and words, and to answer as if they care. We're an independent, cross-university research lab working out what that means for people, and how it should be governed."
   caption: "An illustration: what a companion app might infer from a short exchange, and how it might respond. We study how these systems read us, how they answer, and what that means for people and society, whether they get us wrong or right."
+help:
+  title: "How we help"
+  cta: "Get in touch"
+  points:
+    - title: "Independent"
+      text: "Our research is funded through competitive, peer-reviewed grants. We work with government, industry and civil society, but we set our own questions and publish what we find."
+    - title: "Guidance on emerging technology"
+      text: "We advise on systems that read emotion or simulate empathy, from early design through to regulation and standards."
+    - title: "Across disciplines"
+      text: "Based at Bangor University in Wales, with members and collaborators at universities in the UK and internationally, working across law, media, computing, psychology and policy."
 what:
   - key: sensing
     label: "01 · Sensing"

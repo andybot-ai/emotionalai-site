@@ -1,7 +1,6 @@
 {{ define "main" }}{{ $h := hugo.Data.home }}
 <section class="wrap hero">
   <div class="hero-text">
-    <div class="mono eyebrow">{{ $h.hero.eyebrow }}</div>
     <h1>{{ $h.hero.title }}</h1>
     <p class="lede">{{ $h.hero.lede }}</p>
     <div class="actions"><a class="btn" href="/so-what-is-emotional-ai">What is emotional AI?</a><a class="link-u" href="/projects/">Our projects</a></div>
@@ -9,10 +8,18 @@
   <figure>{{ partial "companion-chat.html" . }}<figcaption>{{ $h.hero.caption }}</figcaption></figure>
 </section>
 
+<section class="ruled"><div class="wrap sec">
+  <div class="sec-head"><h2>{{ $h.help.title }}</h2></div>
+  <div class="help">{{ range $h.help.points }}
+    <div><h3>{{ .title }}</h3><p>{{ .text }}</p></div>{{ end }}
+  </div>
+  <a class="btn help-cta" href="/contact">{{ $h.help.cta }}</a>
+</div></section>
+
 <section class="dark" id="what-is-emotional-ai"><div class="wrap sec">
   <div class="sec-head"><h2>About emotional AI</h2></div>
   <div class="three">{{ range $h.what }}
-    <div class="card-k k-{{ .key }}"><span class="mono">{{ .label }}</span><span class="big">{{ .big }}</span><p>{{ .text }}</p></div>{{ end }}
+    <div class="card-k k-{{ .key }}"><span class="big">{{ .big }}</span><p>{{ .text }}</p></div>{{ end }}
   </div>
 </div></section>
 
