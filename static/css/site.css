@@ -21,6 +21,7 @@ h1,h2,h3{font-family:var(--display);font-weight:700;font-stretch:85%;letter-spac
 .nav a[aria-current="page"]{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:.4em}
 .nav .pill{border:1.5px solid var(--ink);border-radius:999px;padding:9px 18px}
 .nav .pill:hover{background:var(--ink);color:var(--paper)}
+.menu-btn{display:none}
 /* buttons */
 .btn{display:inline-block;text-decoration:none;background:var(--ink);color:var(--paper);border-radius:999px;padding:15px 26px;font-weight:600}
 .btn:hover{background:var(--hover);color:var(--paper)}
@@ -144,6 +145,18 @@ h1,h2,h3{font-family:var(--display);font-weight:700;font-stretch:85%;letter-spac
  .nav{gap:2px 18px;font-size:15px}
  .nlist a{grid-template-columns:1fr;gap:4px}
  .brand{font-size:21px}
+ /* mobile header: Menu button, nav drops down as a list */
+ .site-head .wrap{flex-wrap:wrap;padding-top:14px;padding-bottom:14px}
+ .menu-btn{display:block;font:500 15px var(--body);color:var(--ink);background:transparent;border:1.5px solid var(--ink);border-radius:999px;padding:7px 16px;cursor:pointer}
+ .site-head .nav{display:none;flex-basis:100%;flex-direction:column;align-items:stretch;gap:0;font-size:18px;margin-top:6px}
+ .site-head.open .nav{display:flex}
+ .nav a{padding:13px 0;border-top:1px solid #D6D6D0}
+ .nav a[aria-current="page"]{text-decoration:none;font-weight:700}
+ .nav .pill{border:0;border-top:1px solid #D6D6D0;border-radius:0;padding:13px 0}
+ .nav .pill:hover{background:transparent;color:var(--hover)}
+ /* tighter page tops */
+ .page-head{padding-top:40px}
+ .prose{padding-top:28px;padding-bottom:64px;font-size:17px}
 }
 /* outputs */
 .stds{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:20px}
@@ -166,7 +179,12 @@ h1,h2,h3{font-family:var(--display);font-weight:700;font-stretch:85%;letter-spac
 .note{margin-top:40px;color:var(--soft)}
 .proj-outputs{margin-top:56px;border-top:1px solid var(--rule);padding-top:28px}
 .proj-outputs h2{font-size:32px;margin:0 0 20px}
-@media (max-width:720px){.ygroup{grid-template-columns:1fr;gap:8px}.olist li{grid-template-columns:1fr;gap:2px}}
+@media (max-width:720px){.ygroup{grid-template-columns:1fr;gap:8px}.olist li{grid-template-columns:1fr;gap:2px}
+ /* outputs filters: one swipeable row each instead of ragged wrapping */
+ .fgroup{flex-wrap:nowrap;overflow-x:auto;margin:0 -22px;padding:0 22px 4px;scrollbar-width:none}
+ .fgroup::-webkit-scrollbar{display:none}
+ .fgroup button{flex:none;font-size:14px;padding:7px 14px}
+}
 /* what is emotional AI */
 .wi-head{padding-bottom:48px}
 .wi-lede{font-size:20px;line-height:1.55;max-width:720px;margin:20px 0 0}
