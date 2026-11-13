@@ -1,6 +1,6 @@
 {{ define "main" }}{{ $w := hugo.Data.whatis }}
 <div class="wrap">
-  <header class="page-head wi-head"><span class="mono">Explainer</span><h1>What is emotional AI?</h1>
+  <header class="page-head wi-head"><h1>What is emotional AI?</h1>
     {{ range $w.intro }}<p class="wi-lede">{{ . | markdownify }}</p>{{ end }}
   </header>
 </div>
