@@ -29,7 +29,7 @@ governing:
       - "How do they handle different national, cultural, social and historical contexts?"
   - head: "Is it fair?"
     qs:
-      - "What about bias around race, sex, gender and trans identity in computer vision and training data?"
+      - "What about bias around race, sex and gender in computer vision and training data?"
       - "What about uses with children?"
       - "Games are one thing. Jobs, border control, education and insurance are another."
   - head: "Who benefits?"
