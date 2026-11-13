@@ -10,6 +10,6 @@ August sees the publication of Andrew McStay’s and Vian Bakir’s responses to
 
 Launched following the death of guests following filming for leading UK reality media shows (The Jeremy Kyle Show and Love Island), we took a different angle from critiquing existing reality media. Instead, we considered the future of media – one that features emotional AI across a range of media that sense emotion and gauge authenticity. The Piers Morgan show, with emotion and sincerity testing – you heard it here first!
 
-Our [submission here](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/reality-tv/written/102736.pdf). Enjoy, and let us know if you have questions.
+Our [submission here](https://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/reality-tv/written/102736.pdf). Enjoy, and let us know if you have questions.
 
 ![skynews-jeremy-kyle-love-island_4669688.jpg](/images/legacy/skynews-jeremy-kyle-love-island_4669688.jpg)

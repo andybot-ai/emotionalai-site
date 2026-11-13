@@ -28,4 +28,4 @@ This workshop and seminar investigates and discusses the new (mediated) emotiona
 
 *The workshop will begin with three 5-minute presentations by our three moderators. It will then continue with discussions and questions related to mediated emotion in the age of COVID-19 pandemic from all our invited participants.*
 
-A Global Digital Publics Network (GDPN) event in collaboration with the [Emotional AI Lab,](https://emotionalai.org/so-what-is-emotional-ai)  the network for [Media & Persuasive Communication](http://mpc.bangor.ac.uk/index.php.en), [Alfred Deakin Institute for Citizenship and Globalization](https://www.deakin.edu.au/adi) and the Fame and Persona Research Consortium.
+A Global Digital Publics Network (GDPN) event in collaboration with the [Emotional AI Lab,](https://emotionalai.org/so-what-is-emotional-ai)  the network for [Media & Persuasive Communication](https://mpc.bangor.ac.uk/index.php.en), [Alfred Deakin Institute for Citizenship and Globalization](https://www.deakin.edu.au/adi) and the Fame and Persona Research Consortium.

@@ -84,15 +84,13 @@ Final report [here](https://drive.google.com/file/d/1ffD-CxEuyDf2YxVVNXMYTg64eek
 
 Across 2019 the Emotional AI team held a series of workshops in Tokyo and London to scope out key issues of interest for this interdisciplinary work. Funded by the ESRC, we brought together UK and Japanese academics, industry, artists, NGOs and policy makers and the defence sector. This was to ask whether ethical and privacy considerations are the same in the UK and Japan, or if they emerge out of a situated social context? And, if so, what are the similarities and differences?
 
-Full projects details [here](http://emotionalai.bangor.ac.uk/workshops.php.en)
-
 Do please have a look at the project reports: [UK](https://drive.google.com/file/d/1GglzWFCPmNnROuCJf3EvuNG_uDo9b1xL/view?usp=sharing) and [日本語](https://drive.google.com/file/d/1hwc8TBGcmXqsh6tDSEUWdy8Nt9w1-chf/view?usp=sharing)
 
 ## **2019年に開催したワークショップ**
 
 本プロジェクトの実施チームは、2019年、この学際的な作業にとって重要なイシューを絞るために東京およびロンドンにて複数回に渡り、ワークショップを開催した。イギリスの経済社会研究会議（ESRC）の助成を受け、日英両国の研究者、芸術家、NGOや企業の関係者、政策立案者、防衛関係者が参加したこれらのワークショップでは、倫理面やプライバシーの面での問題などについて両国での類似点や相違点を検討すると共に、それらの問題が似たような社会的文脈から生まれているのかどうかなどを議論した。
 
-ワークショップ報告書全体版（[英語](http://emotionalai.bangor.ac.uk/workshops.php.en)）
+ワークショップ報告書全体版（[英語](https://drive.google.com/file/d/1GglzWFCPmNnROuCJf3EvuNG_uDo9b1xL/view)）
 
 プロジェクト報告書（[英語](https://drive.google.com/file/d/1GglzWFCPmNnROuCJf3EvuNG_uDo9b1xL/view)、[日本語](https://drive.google.com/file/d/1hwc8TBGcmXqsh6tDSEUWdy8Nt9w1-chf/view)）
 
@@ -185,7 +183,7 @@ Do please have a look at the project reports: [UK](https://drive.google.com/file
 - Miyashita, H. and S. Room, V. Artz, P. Breitbarth, J. Jones (2020) The Future of Data Transfers, PrivSec Global, 3 December 2020.
 - Urquhart, L. Open Rights Group (ORG) talk on emotion and facial recognition Oct 2020.
 - Urquhart, L. Just AI Lunchtime Seminar Series, hosted by Ada Lovelace / Nuffield Foundation
-- Urquhart interview (2020) [Scottish Institute of Policing Research Annual Review](http://www.sipr.ac.uk/Plugin/Publications/assets/files/Scottish%20Institute%20for%20Policing%20Research%20-%20Annual%20Report%202019_20.pdf) talking about emotional AI UK/Japan project
+- Urquhart interview (2020) [Scottish Institute of Policing Research Annual Review](https://www.sipr.ac.uk/Plugin/Publications/assets/files/Scottish%20Institute%20for%20Policing%20Research%20-%20Annual%20Report%202019_20.pdf) talking about emotional AI UK/Japan project
 
 ### **Think tank/policy advice**
 

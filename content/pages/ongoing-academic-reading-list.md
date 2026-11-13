@@ -12,7 +12,7 @@ Kudos to those linking to open access papers.
 
 - Andrejevic M. 2013. *Infoglut: How Too Much Information is Changing the Way We Think and Know.* New York: Routledge.
 - Barrett, L.F. (see all her research papers [here](https://lisafeldmanbarrett.com/academic-papers/))
-- Barrett, L.F. (2014) What Faces Can’t Tell Us, *The New York Times*, <http://www.nytimes.com/2014/03/02/opinion/sunday/what-faces-cant-tell-us.html?_r=0>, accessed 20/11/14.
+- Barrett, L.F. (2014) What Faces Can’t Tell Us, *The New York Times*, <https://www.nytimes.com/2014/03/02/opinion/sunday/what-faces-cant-tell-us.html?_r=0>, accessed 20/11/14.
 - Beer, D. (2016) *Metric Power*. Basingstoke: Palgrave MacMillan.
 - Clifford, D. (2017) Citizen-Consumers in a Personalised Galaxy: Emotion Influenced Decision-Making, a True Path to the Dark Side? CiTiP Working Paper Series, 31/2017 https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3037425
 - Crawford, K. Lingel, J. and Karppi, T. (2015) ‘Our metrics, ourselves: a hundred years of self-tracking from the weight scale to the wrist wearable device’, *European Journal of Cultural Studies*, 18: 479–496.
@@ -32,14 +32,14 @@ Kudos to those linking to open access papers.
 - Layard, R. (2005) *Happiness*. London: Penguin.
 - Lazzarato, M. (2014) *Signs and Machines: Capitalism and the Promotion of Subjectivity*. Los Angeles: Semiotext(e).
 - Leys, R. (2011) The Turn to Affect: A Critique, *Critical Inquiry*, 37(3): 434-472.
-- Leys, R. (2012) “Both of Us Disgusted in My Insula”: Mirror Neuron Theory and Emotional Empathy, *Nonsite.org*, <http://nonsite.org/article/%E2%80%9Cboth-of-us-disgusted-in-my-insula%E2%80%9D-mirror-neuron-theory-and-emotional-empathy>, accessed 19/11/14.
+- Leys, R. (2012) “Both of Us Disgusted in My Insula”: Mirror Neuron Theory and Emotional Empathy, *Nonsite.org*, <https://nonsite.org/article/%E2%80%9Cboth-of-us-disgusted-in-my-insula%E2%80%9D-mirror-neuron-theory-and-emotional-empathy>, accessed 19/11/14.
 - Lindstrom, M. (2009) *Buy-ology: How Everything We Believe About Why We Buy Is Wrong*. London: Kogan Page.
 - Lupton, D. (2016) *The Quantified Self*. Cambridge: Polity.
 - Palti, I. and Bar, M. (2015) A manifesto for conscious cities: should streets be sensitive to our mental needs? *The Guardian*, <https://www.theguardian.com/cities/2015/aug/28/manifesto-conscious-cities-streets-sensitive-mental-needs>, accessed 05/06/17.
 - Morozov, E. (2014) *To Save Everything Click Here*. London: Penguin.
 - Neff, G. and Nafus, D. (2016) *Self-Tracking*. Massachusetts: MIT Press.
 - Picard, R.W. (1997) *Affective Computing*. Cambridge, MA: MIT.
-- Picard, R.W. (2007) *Toward Machines with Emotional Intelligence*, <http://affect.media.mit.edu/pdfs/07.picard-EI-chapter.pdf>, accessed 15/01/14.
+- Picard, R.W. (2007) *Toward Machines with Emotional Intelligence*, <https://affect.media.mit.edu/pdfs/07.picard-EI-chapter.pdf>, accessed 15/01/14.
 - Quattrociocchi, W.; Scala, A. and Sunstein, C. (2016) Echo Chambers on Facebook, *SSRN*, <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2795110>, accessed 04/01/17.
 - Richardson, K. (2016) Sex Robot Matters: Slavery, the Prostituted, and the Rights of Machines, *IEEE Technology and Society Magazine*, 35(2), 46–53.
 - Russell, J.A. (1994) Is There Universal Recognition of Emotion From Facial Expression? A Review of the Cross-Cultural Studies, *Psychological Bulletin*, 115(1): 102-141.

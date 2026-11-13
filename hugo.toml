@@ -4,7 +4,7 @@ title = "Emotional AI Lab"
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  description = "The Emotional AI Lab at Bangor University studies what it means to live with emotionally responsive AI, and how it should be governed."
+  description = "An independent, cross-university research lab studying what it means to live with emotionally responsive AI, and how it should be governed."
   email = "mcstay@bangor.ac.uk"
 
 [markup.goldmark.renderer]

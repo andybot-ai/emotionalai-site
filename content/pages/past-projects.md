@@ -31,13 +31,9 @@ Investigators: Prof. Vian Bakir, Dr. Lachlan Urquhart, Prof. Peter Mantello and 
 
 Title: Emotional AI: Comparative Considerations for UK and Japan across Commercial, Political and Security Sectors
 
-Full project site with all details: [here](http://emotionalai.bangor.ac.uk/index.php.en).
-
 Funded by the ESRC, a UK Research Council, in 2019 we sought to generate conversation among UK and Japanese academics, industry, artists, NGOs and regulators. The goal was to understand the constitutional, commercial, civic, policing and security implications of a world where emotional AI increasingly plays a central role. While the academic part of the project used insights to inform a subsequent grant application, the overall objective was broader. It was to identify the benefits and harms of these technologies and, central to this project, the cross-cultural considerations. For example, are ethical and privacy considerations the same in the UK and Japan, or do they emerge out of a situated social context? If so, what are the similarities and differences?
 
 We held two seperate workshops dedicated to commercial and security/policing dimensions in Tokyo. These ran from July 8th 2019 and were held at Ritsumeikan Tokyo Campus, Sapia Tower. Following these, we hosted another at London’s Digital Catapult on Sept 9th 2019.
-
-Details [here](http://emotionalai.bangor.ac.uk/workshops.php.en).
 
 Project reports: [UK](https://drive.google.com/file/d/1GglzWFCPmNnROuCJf3EvuNG_uDo9b1xL/view?usp=sharing) and [日本語](https://drive.google.com/file/d/1hwc8TBGcmXqsh6tDSEUWdy8Nt9w1-chf/view?usp=sharing)
 
@@ -83,7 +79,7 @@ Unfettered from legal need to speak in technology-neutral terms, this allowed us
 
 ## Fake news and emotions
 
-Professor Andrew McStay and Professor Vian Bakir of Bangor University assessed the connection between fake news and emotions. We argue that what is most significant about the contemporary fake news furore is what it portends: the use of personally and emotionally targeted news produced by algo-journalism, empathic media and emotional AI. In assessing solutions to this democratically problematic situation, we recommend that greater attention is paid to the role of digital advertising in causing, and combating, both the contemporary fake news phenomenon, and the near-horizon variant of empathically optimised automated fake news. Written evidence for UK parliamentary inquiry [here](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/culture-media-and-sport-committee/fake-news/written/48101.html) and our analysis of all parliamentary submissions [here](http://www.meccsa.org.uk/news/three-d-issue-28-combatting-fake-news-analysis-of-submissions-to-the-fake-news-inquiry/). Our academic paper 'Fake News and The Economy of Emotions: Problems, Causes, Solutions' [here](http://www.tandfonline.com/doi/full/10.1080/21670811.2017.1345645?scroll=top&needAccess=true).
+Professor Andrew McStay and Professor Vian Bakir of Bangor University assessed the connection between fake news and emotions. We argue that what is most significant about the contemporary fake news furore is what it portends: the use of personally and emotionally targeted news produced by algo-journalism, empathic media and emotional AI. In assessing solutions to this democratically problematic situation, we recommend that greater attention is paid to the role of digital advertising in causing, and combating, both the contemporary fake news phenomenon, and the near-horizon variant of empathically optimised automated fake news. Written evidence for UK parliamentary inquiry [here](https://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/culture-media-and-sport-committee/fake-news/written/48101.html) and our analysis of all parliamentary submissions [here](https://www.meccsa.org.uk/news/three-d-issue-28-combatting-fake-news-analysis-of-submissions-to-the-fake-news-inquiry/). Our academic paper 'Fake News and The Economy of Emotions: Problems, Causes, Solutions' [here](https://www.tandfonline.com/doi/full/10.1080/21670811.2017.1345645?scroll=top&needAccess=true).
 
 ![DxSQkh9WkAEXOs3.jpg](/images/legacy/dxsqkh9wkaexos3.jpg)
 ![Ronan Devlin, Aura, #LightWaves2019, Canary Wharf, 2019](/images/legacy/aura-image-1.jpg)
