@@ -6,7 +6,7 @@ legacy: true
 
 # Useful links
 
-Companies working on or with emotional AI and affective computing. Please suggest more via [LinkedIn](https://www.linkedin.com/company/emotionalai).
+Companies working on or with emotional AI and affective computing. Please suggest more via [LinkedIn](https://www.linkedin.com/company/emotional-ai-lab).
 
 - [**Admobilize**](http://em.getrevue.co/wf/click?upn=Cxddp8diHLcW45D85hCuPQi0o-2FqrU9VU4GfppOMPP3c-3D_vepLB2FvkrKoQS7VOzXQtU29xnOyw-2F7z7QZpFnLTLDvUIUShLOknzYw52n7ZdlPUzFauFzvFISUAuXfdDb-2FKC8IMsq5UlaA1sb7juKjomo-2Fj7s-2FH989QxLgHlMSaVKBzvKV8MNFfe1iSGUMeapVG5p4mtcSh5fgM-2BTQXhFEbF1Wgt-2FmwKodY32PsjTOWGoteVVCTCOqS420nfK7Ov3sJMdUNAIyaXT4qItr9r1ZkytQU2YtCgPApc6Ftiln-2ByMvzjJB7aRmJAzachnvwqaQSQKRJDy-2F0eJFKei1QOEv2-2FzWOxRkoO0RcLRf08EE-2BwgmU)
 - [**Affectiva**](https://www.affectiva.com/)
