@@ -2,7 +2,7 @@ hero:
   eyebrow: "Bangor University, Wales"
   title: "What it means to live with emotionally responsive AI."
   lede: "Machines are learning to read our faces, voices and words, and to answer as if they care. We study what that does to people, and how it should be governed."
-  caption: "Emotional AI maps feelings onto grids like this one. The machine sees calm; the person feels tense. That gap is what we study."
+  caption: "Emotional AI maps feelings onto grids like this one. Sometimes the machine misreads us; sometimes it reads us accurately. We study both: the harms of getting people wrong, and what it means for people and society when these systems get us right."
 what:
   - key: sensing
     label: "01 · Sensing"

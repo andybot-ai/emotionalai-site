@@ -1,0 +1,28 @@
+{{ define "main" }}{{ $w := hugo.Data.whatis }}
+<div class="wrap">
+  <header class="page-head wi-head"><span class="mono">Explainer</span><h1>What is emotional AI?</h1>
+    {{ range $w.intro }}<p class="wi-lede">{{ . | markdownify }}</p>{{ end }}
+  </header>
+</div>
+
+<section id="sensing" class="ruled"><div class="wrap sec">
+  <div class="sec-head"><div><span class="tag k-sensing">01 · Sensing</span><h2 style="margin-top:14px">How it reads us</h2></div></div>
+  <div class="wi-cards">{{ range $w.sensing }}<div class="wi-card k-sensing"><h3>{{ .title }}</h3><p>{{ .text }}</p></div>{{ end }}</div>
+</div></section>
+
+<section id="simulating" class="dark"><div class="wrap sec wi-sim">
+  <div><span class="tag k-simulating">02 · Simulating</span><h2 style="margin-top:14px">How it answers as if it cares</h2></div>
+  <div class="wi-prose"><h3>Large language models</h3>{{ range $w.simulating }}<p>{{ . | markdownify }}</p>{{ end }}
+    <p class="wi-links">{{ range $w.simulating_links }}<a href="{{ .url }}">{{ .label }} →</a>{{ end }}</p></div>
+</div></section>
+
+<section id="governing"><div class="wrap sec">
+  <div class="sec-head"><div><span class="tag k-governing">03 · Governing</span><h2 style="margin-top:14px">The questions that matter</h2></div></div>
+  <div class="wi-qs">{{ range $w.governing }}<div><h3>{{ .head }}</h3><ul>{{ range .qs }}<li>{{ . }}</li>{{ end }}</ul></div>{{ end }}</div>
+</div></section>
+
+<section class="ruled"><div class="wrap" style="padding-top:44px;padding-bottom:88px">
+  <span class="mono" style="color:var(--muted)">Further reading</span>
+  <ul class="wi-read">{{ range $w.reading }}<li><a href="{{ .url }}">{{ .label }} →</a></li>{{ end }}</ul>
+</div></section>
+{{ end }}

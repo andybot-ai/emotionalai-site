@@ -1,0 +1,49 @@
+intro:
+  - "Emotional AI is technology that tries to sense, interpret and respond to human emotion: through what we write and say, our faces, bodies and behaviour. It ranges from cameras that claim to read moods to chatbots that answer as if they care."
+  - "How well any of this works is highly debatable. What a system detects is never quite what a person feels, and how much that gap matters depends on what the system is used for and who it affects. That's why we think emotional AI needs ongoing social, cultural, legal and ethical scrutiny."
+sensing:
+  - title: "Text and sentiment"
+    text: "Analysis of posts, messages, emojis, images and video for signs of mood, feeling and emotion."
+  - title: "Faces"
+    text: "Facial coding infers emotion from camera feeds, video or photos. Its effectiveness is highly debatable, especially when it relies on the “big six” basic emotions."
+  - title: "Voice"
+    text: "Rate of speech, pauses, pitch and tone."
+  - title: "Eyes"
+    text: "Where we look, for how long, and how our eyes move."
+  - title: "Body and wearables"
+    text: "Skin response, muscle and heart activity, skin temperature, breathing and brain activity."
+  - title: "Gesture and behaviour"
+    text: "Cameras track hands, faces and movement. Some estimate heart rate remotely."
+  - title: "VR and AR"
+    text: "Headsets track attention and reactions to what we see. Some carry brain (EEG) and facial muscle sensors."
+simulating:
+  - "Chatbots like ChatGPT, Claude and Gemini, and companion apps such as Replika and Character.ai, don't measure your body. They infer emotion from what you write and, increasingly, from your voice and images. Because they're trained on vast amounts of human writing and then tuned to be helpful and supportive, they respond in ways that read as understanding and care."
+  - "This is empathy as performance: what IEEE 7014.1 calls *weak* empathy. The system reads and responds to emotional states, but there's no felt experience behind it. That isn't necessarily a problem. It becomes one when people rely on it, disclose more because of it, or are steered by it: through flattery, through design that rewards engagement over wellbeing, or through emotional data gathered over months of conversation."
+simulating_links:
+  - { label: "Our work on AI companions", url: "/companions" }
+  - { label: "IEEE 7014.1", url: "/ieee-70141" }
+governing:
+  - head: "Does it work?"
+    qs:
+      - "Do these technologies make sense, given how ambiguous emotion and subjective life are?"
+      - "How do they handle different national, cultural, social and historical contexts?"
+  - head: "Is it fair?"
+    qs:
+      - "What about bias around race, sex, gender and trans identity in computer vision and training data?"
+      - "What about uses with children?"
+      - "Games are one thing. Jobs, border control, education and insurance are another."
+  - head: "Who benefits?"
+    qs:
+      - "Is it desirable that emotions are machine-readable at all?"
+      - "Will data about emotion be used in ways that benefit people?"
+      - "Should social media companies be registering our moods and mental states? What about data brokers?"
+      - "What happens to our relationships with objects and systems that sense or simulate emotion?"
+  - head: "Are the rules right?"
+    qs:
+      - "Are laws and regulations adequate, and are they being followed?"
+      - "Data protection focuses on identification. Is identification really the main issue?"
+      - "Is law the only answer, or does design matter as much?"
+reading:
+  - { label: "Automating Empathy (Oxford University Press, open access)", url: "https://academic.oup.com/book/55102" }
+  - { label: "Projects", url: "/projects/" }
+  - { label: "All outputs", url: "/writing/talks" }

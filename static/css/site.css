@@ -150,3 +150,25 @@ h1,h2,h3{font-family:var(--display);font-weight:700;font-stretch:85%;letter-spac
 .proj-outputs{margin-top:56px;border-top:1px solid var(--rule);padding-top:28px}
 .proj-outputs h2{font-size:32px;margin:0 0 20px}
 @media (max-width:720px){.ygroup{grid-template-columns:1fr;gap:8px}.olist li{grid-template-columns:1fr;gap:2px}}
+/* what is emotional AI */
+.wi-head{padding-bottom:48px}
+.wi-lede{font-size:20px;line-height:1.55;max-width:720px;margin:20px 0 0}
+.wi-jump{display:flex;flex-wrap:wrap;gap:8px 24px;margin-top:32px}
+.wi-jump a{text-decoration:none;border-bottom:1.5px solid var(--ink);padding-bottom:3px}
+.wi-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px}
+.wi-card{background:#fff;border-radius:14px;padding:22px 24px;border-top:6px solid var(--k)}
+.wi-card h3{margin:0 0 8px;font-size:23px;letter-spacing:-.01em}
+.wi-card p{margin:0;font-size:16px;line-height:1.55;color:var(--soft)}
+.wi-sim{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:48px;align-items:start}
+.wi-sim h2{font-size:clamp(34px,4vw,52px);margin-bottom:0}
+.wi-prose h3{margin:0 0 14px;font-size:28px;letter-spacing:-.02em;color:var(--amber)}
+.wi-prose p{font-size:18px;line-height:1.65;color:#E4E4DE;margin:0 0 18px}
+.wi-links{display:flex;flex-wrap:wrap;gap:8px 28px;font-weight:600}
+.wi-links a{text-decoration:none;border-bottom:1.5px solid currentColor}
+.wi-qs{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:28px}
+.wi-qs>div{border-top:1px solid var(--rule);padding-top:16px}
+.wi-qs h3{margin:0 0 12px;font-size:26px;letter-spacing:-.02em}
+.wi-qs ul{margin:0;padding-left:1.1em}.wi-qs li{margin:0 0 10px;font-size:16px;line-height:1.5}
+.wi-read{list-style:none;padding:0;margin:14px 0 0;display:flex;flex-wrap:wrap;gap:10px 32px;font-weight:600;font-size:18px}
+.wi-read a{text-decoration:none;border-bottom:1.5px solid var(--ink)}
+@media (max-width:860px){.wi-sim{grid-template-columns:1fr;gap:20px}}
