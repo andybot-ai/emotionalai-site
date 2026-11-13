@@ -1,9 +1,16 @@
 {{ define "main" }}{{ $all := where hugo.Data.outputs "lab" true }}
-{{ $tn := dict "paper" "Paper" "book" "Book" "report" "Report" "policy" "Policy & evidence" "talk" "Talk" "media" "Media" }}
+{{ $tn := dict "paper" "Paper" "book" "Book" "report" "Report" "standard" "Standard" "policy" "Policy & evidence" "talk" "Talk" "media" "Media" }}
 <div class="wrap">
-  <header class="page-head"><span class="mono">Papers, reports, evidence, talks and media</span><h1>Outputs</h1></header>
+  <header class="page-head"><span class="mono">Papers, reports, standards, evidence, talks and media</span><h1>Outputs</h1></header>
 
-  <section class="sec" style="padding-top:40px;padding-bottom:56px">
+  <section class="sec" style="padding-top:40px;padding-bottom:40px">
+    <div class="sec-head" style="margin-bottom:24px"><h2 style="font-size:clamp(28px,3.2vw,40px)">International standards</h2><a class="mono" href="/ieee-70141">About IEEE 7014.1 →</a></div>
+    <div class="stds">{{ range sort (where $all "type" "standard") "year" "desc" }}
+      <a class="report std k-governing" href="{{ .url }}"><span class="mono">{{ .code }}</span><span class="t">{{ .short }}</span><span class="chair">Working group chair: {{ .chair }}</span></a>{{ end }}
+    </div>
+  </section>
+
+  <section class="sec ruled" style="padding-top:40px;padding-bottom:56px">
     <div class="sec-head" style="margin-bottom:24px"><h2 style="font-size:clamp(28px,3.2vw,40px)">Key outputs</h2></div>
     <div class="keys">{{ range sort (where $all "key" true) "year" "desc" }}
       <a class="report k-{{ .theme }}" href="{{ .url }}"><span class="mono">{{ index $tn .type }} · {{ .year }}</span><span class="t">{{ .short }}</span></a>{{ end }}
@@ -15,6 +22,7 @@
     <div class="filters" hidden>
       <div class="fgroup" role="group" aria-label="Type">
         <button type="button" data-f="type" data-v="research" aria-pressed="true">Papers, books and reports</button>
+        <button type="button" data-f="type" data-v="standard" aria-pressed="false">Standards</button>
         <button type="button" data-f="type" data-v="policy" aria-pressed="false">Policy and evidence</button>
         <button type="button" data-f="type" data-v="talk" aria-pressed="false">Talks</button>
         <button type="button" data-f="type" data-v="media" aria-pressed="false">Media</button>

@@ -1,12 +1,23 @@
 - cite: 'IEEE (2026) [IEEE 7014.1-2026: IEEE Recommended Practice for Ethical Considerations of Emulated Empathy in Partner-Based General-Purpose Artificial Intelligence Systems](https://standards.ieee.org/ieee/7014.1/11609/). Working group chaired by Andrew McStay.'
   year: 2026
-  type: report
+  type: standard
   theme: governing
   projects:
   - gpai-standards
   url: https://standards.ieee.org/ieee/7014.1/11609/
-  key: true
-  short: 'IEEE 7014.1-2026: ethical considerations of emulated empathy in AI partners'
+  short: 'Ethical considerations of emulated empathy in partner-based general-purpose AI'
+  code: 'IEEE 7014.1-2026'
+  chair: 'Andrew McStay'
+  lab: true
+- cite: 'IEEE (2024) [IEEE 7014-2024: IEEE Standard for Ethical Considerations in Emulated Empathy in Autonomous and Intelligent Systems](https://standards.ieee.org/ieee/7014/7648/). Working group chaired by Ben Bland.'
+  year: 2024
+  type: standard
+  theme: governing
+  projects: []
+  url: https://standards.ieee.org/ieee/7014/7648/
+  short: 'Ethical considerations in emulated empathy in autonomous and intelligent systems'
+  code: 'IEEE 7014-2024'
+  chair: 'Ben Bland'
   lab: true
 - cite: McStay, A. & Bakir, V. (2026) [*Do AI Companions Understand? Most UK Teens Say Yes*](https://drive.google.com/file/d/1dNte5ZH6prpm1inDQsZnN-N7H_0K4VPA/view). Emotional AI Lab.
   year: 2026
