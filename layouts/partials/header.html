@@ -3,6 +3,7 @@
   <button class="menu-btn" type="button" aria-expanded="false" aria-controls="main-nav">Menu</button>
   <nav class="nav" id="main-nav" aria-label="Main">
     {{ $cur := .RelPermalink }}
+    <a class="nav-home" href="/"{{ if eq $cur "/" }} aria-current="page"{{ end }}>Home</a>
     {{ range site.Menus.main }}<a href="{{ .URL }}"{{ if or (eq $cur .URL) (eq $cur (printf "%s/" .URL)) (and (ne .URL "/") (hasPrefix $cur .URL) (ne .URL "/so-what-is-emotional-ai")) }} aria-current="page"{{ end }}>{{ .Name }}</a>{{ end }}
     <a class="pill" href="/contact">Contact</a>
   </nav>
