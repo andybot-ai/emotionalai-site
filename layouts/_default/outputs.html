@@ -11,7 +11,7 @@
   </section>
 
   <section class="sec ruled" style="padding-top:40px;padding-bottom:56px">
-    <div class="sec-head" style="margin-bottom:24px"><h2 style="font-size:clamp(28px,3.2vw,40px)">Key outputs</h2></div>
+    <div class="sec-head" style="margin-bottom:24px"><h2 style="font-size:clamp(28px,3.2vw,40px)">Selected outputs</h2></div>
     <div class="keys">{{ range sort (where $all "key" true) "year" "desc" }}
       <a class="report k-{{ .theme }}" href="{{ .url }}"><span class="mono">{{ index $tn .type }} · {{ .year }}</span><span class="t">{{ .short }}</span></a>{{ end }}
     </div>
