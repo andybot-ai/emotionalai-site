@@ -5,8 +5,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   description = "The Emotional AI Lab at Bangor University studies what it means to live with emotionally responsive AI, and how it should be governed."
-  # TODO: confirm the Lab contact email, then add it here (it appears in the footer).
-  email = ""
+  email = "mcstay@bangor.ac.uk"
 
 [markup.goldmark.renderer]
   unsafe = true
