@@ -7,6 +7,8 @@ group: "sensing"
 summary: "Rights of childhood, affective computing and data protection."
 current: false
 weight: 2
+hero: "/images/legacy/moxie.jpg"
+logos: ["/images/legacy/opc-blk-en-2.png", "/images/legacy/hdi_logo_small1-2.png", "/images/legacy/epsrc.png", "/images/legacy/ioi.png"]
 ---
 
 # **Empathic technologies: children, toys and schools**
@@ -67,11 +69,6 @@ Rosner, G. and McStay, A. (2025) [*The*](https://drive.google.com/file/d/1rvYA5e
 
 McStay, A. and Rosner, G. (2020) [*Emotional AI and Children: Parents, Ethics, Governance*](https://drive.google.com/file/d/1Iswo39rukxdtL7E8-4GHMAq1ykiYR-bw/view?usp=sharing) for [HDI+Network](https://hdi-network.org).
 
-![Moxie.jpg](/images/legacy/moxie.jpg)
-![](/images/legacy/opc-blk-en-2.png)
 ![Schools.jpg](/images/legacy/schools.jpg)
-![hdi_logo_small1.png](/images/legacy/hdi_logo_small1-2.png)
 ![Cozmo.jpg](/images/legacy/cozmo.jpg)
-![EPSRC.png](/images/legacy/epsrc.png)
 ![1_PQ0UOTmAk4bLfu7NQVKG4Q.jpeg](/images/legacy/1_pq0uotmak4blfu7nqvkg4q.jpeg)
-![iOi.png](/images/legacy/ioi.png)

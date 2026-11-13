@@ -7,6 +7,8 @@ group: "simulating"
 summary: "Emotions, optimisation and falsehood in the digital civic body."
 current: false
 weight: 3
+hero: "/images/legacy/vian-bakir-profile-pic-jan2024-2.jpg"
+hero_caption: "Professor Vian Bakir delivering the disinformation and AI section of the 2023 Royal Institution Christmas Lectures"
 ---
 
 # **Disinformation & Emotional AI**
@@ -38,10 +40,6 @@ This research has reached well beyond academia. Our work has informed deliberati
 In December 2023, Professor Bakir appeared in the Royal Institution's Christmas Lectures — *The Truth about AI* — broadcast on BBC4 and freely available on the Royal Institution's YouTube channel, reaching audiences of teenagers, parents and educators across the UK and internationally.
 
 Our research has also influenced professional political communicators, NGOs, trade unions, journalists, and artists working to understand and counteract the power imbalances created by emotional AI and disinformation.
-
-![](/images/legacy/vian-bakir-profile-pic-jan2024-2.jpg)
-
-*Professor Vian Bakir delivering disinformation and AI section for 2023 The Royal Institution's Christmas Lectures*
 
 ##
 

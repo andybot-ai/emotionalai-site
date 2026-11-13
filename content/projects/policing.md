@@ -7,6 +7,7 @@ group: "governing"
 summary: "AI, ethics and policing in North Wales: citizens' perspectives."
 current: false
 weight: 3
+hero: "/images/legacy/welsh-police-officer.png"
 ---
 
 # **Policing, ethics and emerging technologies**
@@ -35,4 +36,3 @@ Full project site [here](https://www.bangor.ac.uk/artificial-intelligence-ai-eth
 
 ![](/images/legacy/screenshot-2023-03-24-at-08.16.44.png)
 ![](/images/legacy/face-id.jpeg)
-![](/images/legacy/welsh-police-officer.png)

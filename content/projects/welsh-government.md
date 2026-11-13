@@ -7,6 +7,8 @@ group: "governing"
 summary: "AI ethics for public services in Wales."
 current: false
 weight: 2
+hero: "/images/legacy/wdna-2022-5-11-12-52-8.jpeg"
+logos: ["/images/legacy/welsh_government_logo.svg-2.png", "/images/legacy/future-generations-2.png"]
 ---
 
 # **Applying digital ethics to government and public services**
@@ -30,7 +32,3 @@ In addition to normative and applied ethics work, they conducted a UK-wide surve
 [Report in English](https://drive.google.com/file/d/1wEZICDu9QF6Ro-GYoiEprjVXOAeWQId0/view?usp=sharing)
 [Yn Gymraeg](https://drive.google.com/file/d/1wBEzI3jMioAamE6NEsN9dZcKMdHVSwjo/view?usp=sharing)
 
-![](/images/legacy/wdna-2022-5-11-12-52-8.jpeg)
-![](/images/legacy/welsh_government_logo.svg-2.png)
-![](/images/legacy/future-generations-2.png)
-![](/images/legacy/wales-2.jpeg)

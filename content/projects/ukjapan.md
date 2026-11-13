@@ -7,19 +7,16 @@ group: "sensing"
 summary: "Emotional AI in cities: cross-cultural lessons from the UK and Japan."
 current: false
 weight: 1
+hero: "/images/legacy/pepper-emotional-support-robot.jpg"
+logos: ["/images/legacy/esrc.png", "/images/legacy/ukri.png", "/images/legacy/jst.png"]
 ---
 
 # **Emotional AI in Cities: Cross Cultural Lessons from UK and Japan on Designing for An Ethical Life**
 
 # **都市における感情認識AI：日英発倫理的生活設計に関する異文化比較研究**
 
-![pepper-emotional-support-robot.jpg](/images/legacy/pepper-emotional-support-robot.jpg)
-![shutterstock_398923810-897x500.jpg](/images/legacy/shutterstock_398923810-897x500.jpg)
-![PRI_161952027-1.jpg](/images/legacy/pri_161952027-1.jpg)
-![e8496893d5b62cbd474e7d91f14f2c54.png](/images/legacy/e8496893d5b62cbd474e7d91f14f2c54.png)
 ![Passenger-Metrics-1.png](/images/legacy/passenger-metrics-1.png)
 ![Winter-Halo-Band-on-Wrist-1-1024x670.jpg](/images/legacy/winter-halo-band-on-wrist-1-1024x670.jpg)
-![Workplace.jpg](/images/legacy/workplace-2.jpg)
 ![PARO-seal-with-care-home-resident-Flickr.png](/images/legacy/paro-seal-with-care-home-resident-flickr.png)
 
 ## **2020 empirical work**
@@ -101,7 +98,6 @@ Do please have a look at the project reports: [UK](https://drive.google.com/file
 
 ![Tokyo workshop.jpg](/images/legacy/tokyo-workshop.jpg)
 ![Skyscrapers_of_Shinjuku_2009_January.jpg](/images/legacy/skyscrapers_of_shinjuku_2009_january.jpg)
-![Seedrs-Presents-Renaissance-Hotel-graphic-Oct2016-1024x512.png](/images/legacy/seedrs-presents-renaissance-hotel-graphic-oct2016-1024x512.png)
 
 ## **Outputs so far / これまでの成果**
 
@@ -213,6 +209,3 @@ McStay delivered 2 lectures on Emotional AI and human rights for UN Global Campu
 
 Emotional AI: Japan & UK Final Report on a Conversation Between Cultures: [UK](https://drive.google.com/file/d/1GglzWFCPmNnROuCJf3EvuNG_uDo9b1xL/view?usp=sharing) and [日本語](https://drive.google.com/file/d/1hwc8TBGcmXqsh6tDSEUWdy8Nt9w1-chf/view?usp=sharing)
 
-![ESRC.png](/images/legacy/esrc.png)
-![UKRI.png](/images/legacy/ukri.png)
-![JST.png](/images/legacy/jst.png)

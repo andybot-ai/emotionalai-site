@@ -7,6 +7,9 @@ group: "simulating"
 summary: "AI-enabled scams and the weaponisation of empathy, with partners in Nigeria."
 current: true
 weight: 2
+hero: "/images/legacy/screenshot-2026-04-13-at-07.08.07-2.png"
+hero_fit: "contain"
+logos: ["/images/legacy/department_for_science-_innovation_and_technology_logo.svg.png", "/images/legacy/medr_wales_logo.svg.png", "/images/legacy/download.jpeg", "/images/legacy/bangorlogorgb-1.png"]
 ---
 
 # **Resolving the Future of Empathic AI Scams: A Nigeria-UK Collaboration**
@@ -38,8 +41,6 @@ This project is a 3-month sprint led by social scientists and AI specialists.
 **Andrew McStay**: Professor of Technology & Society, Bangor University.
 
 **Chiemezie Ugochukwu:** Law and Social Justice, Bangor University.
-
-![](/images/legacy/screenshot-2026-04-13-at-07.08.07-2.png)
 
 [**New report**](https://drive.google.com/file/d/1ZtbGbHnxj-chGxPM2xQUwU8u_Ecyn-T2/view?usp=drive_link)**: Weaponised Empathy — AI Scams & the Nigeria–UK Response (April 2026)**
 
@@ -73,7 +74,3 @@ This project is a 3-month sprint led by social scientists and AI specialists.
 
 **Are you a regulator, in industry, or an academic working on scams?** Have we overlooked you? **😮** If you have a view or research you’d like share, and/or you’d like a chat, we want to hear from you. Pop Andrew a message (mcstay@bangor.ac.uk).
 
-![](/images/legacy/department_for_science-_innovation_and_technology_logo.svg.png)
-![](/images/legacy/medr_wales_logo.svg.png)
-![](/images/legacy/download.jpeg)
-![](/images/legacy/bangorlogorgb-1.png)

@@ -7,6 +7,8 @@ group: "governing"
 summary: "AEGIS: Automated Empathy – Globalising International Standards, and IEEE 7014.1."
 current: true
 weight: 1
+hero: "/images/legacy/unsplash-image--q8mdtl2998.jpg"
+logos: ["/images/legacy/new-raiuk_logo.png", "/images/legacy/01_nii_logo_a.gif", "/images/legacy/ieee_logo.svg.png", "/images/legacy/monash-2.png", "/images/legacy/ico-logo.jpg"]
 ---
 
 # **Automated Empathy – Globalising International Standards (AEGIS): Japan and Ethically Aligned Regions**
@@ -39,8 +41,3 @@ For engagement or info, contact [Prof. Andrew McStay](mailto:mcstay@bangor.ac.uk
 - B.Bland, WG Chair (2024, completed) [IEEE 7014-2024 Standard for Ethical Considerations in Emulated Empathy in Autonomous and Intelligent Systems.](https://standards.ieee.org/ieee/7014/7648/)
 - A,McStay, WG Chair (2026, completed) [IEEE 7014.1-2026 Recommended Practice for Ethical Considerations of Emulated Empathy in Partner-based General-Purpose Artificial Intelligence Systems.](https://standards.ieee.org/ieee/7014.1/11609/)
 
-![](/images/legacy/new-raiuk_logo.png)
-![](/images/legacy/01_nii_logo_a.gif)
-![](/images/legacy/ieee_logo.svg.png)
-![](/images/legacy/monash-2.png)
-![](/images/legacy/ico-logo.jpg)

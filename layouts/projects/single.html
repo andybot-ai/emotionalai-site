@@ -1,11 +1,13 @@
 {{ define "main" }}{{ $c := .Content | replaceRE `^\s*<h1[^>]*>.*?</h1>` "" | safeHTML }}
 <article class="wrap">
   <header class="page-head"><span class="tag k-{{ .Params.group }}" style="display:inline-block;margin-bottom:18px">{{ upper .Params.group }}{{ if .Params.current }} · CURRENT{{ end }}</span><h1>{{ .Title }}</h1>{{ with .Params.summary }}<p style="font-size:20px;max-width:640px;margin:20px 0 0">{{ . }}</p>{{ end }}</header>
+  {{ with .Params.hero }}<figure class="proj-hero{{ with $.Params.hero_fit }} {{ . }}{{ end }}"><img src="{{ . }}" alt="">{{ with $.Params.hero_caption }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>{{ end }}
   <div class="prose">{{ $c }}{{ $slug := .File.ContentBaseName }}{{ $outs := slice }}{{ range hugo.Data.outputs }}{{ if and .lab (in .projects $slug) }}{{ $outs = $outs | append . }}{{ end }}{{ end }}
   {{ with $outs }}{{ $tn := dict "paper" "Paper" "book" "Book" "report" "Report" "policy" "Policy & evidence" "talk" "Talk" "media" "Media" }}
   <section class="proj-outputs"><h2>Outputs from this project</h2>
   <ul class="olist">{{ range sort . "year" "desc" }}<li><span class="otype">{{ index $tn .type }} · {{ .year }}</span><span class="ocite">{{ .cite | markdownify }}</span></li>{{ end }}</ul>
   <p style="margin-top:24px"><a href="/writing/talks">All Lab outputs →</a></p></section>{{ end }}
+  {{ with .Params.logos }}<div class="proj-logos"><span class="mono">Funders and partners</span><div class="logos">{{ range . }}<img src="{{ . }}" alt="" loading="lazy">{{ end }}</div></div>{{ end }}
   <a class="back" href="/projects/">← All projects</a></div>
 </article>
 {{ end }}

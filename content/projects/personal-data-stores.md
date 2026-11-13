@@ -7,6 +7,9 @@ group: "governing"
 summary: "An ethical impact assessment of personal data storage apps."
 current: false
 weight: 4
+hero: "/images/legacy/cufflink-app-store-personal-information-e1594739165252-1024x808.png"
+hero_fit: "contain"
+logos: ["/images/legacy/cufflink.png", "/images/legacy/ukri-2.png", "/images/legacy/innovate-uk-logo.png"]
 ---
 
 # **Personal data stores**
@@ -29,7 +32,3 @@ Ethically fraught, UK citizens have mixed feelings about storing, sharing and se
 
 ### MCSTAY, A. (2023) [THE METAVERSE: SURVEILLANT PHYSICS, VIRTUAL REALIST GOVERNANCE, AND THE MISSING COMMONS](https://link.springer.com/article/10.1007/s13347-023-00613-y). *PHILOSOPHY & TECHNOLOGY*.
 
-![](/images/legacy/cufflink-app-store-personal-information-e1594739165252-1024x808.png)
-![Cufflink.png](/images/legacy/cufflink.png)
-![UKRI.png](/images/legacy/ukri-2.png)
-![](/images/legacy/innovate-uk-logo.png)

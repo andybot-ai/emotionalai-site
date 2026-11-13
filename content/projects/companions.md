@@ -7,6 +7,8 @@ group: "simulating"
 summary: "AI companions and empathy, including national surveys of UK adults and teenagers."
 current: true
 weight: 1
+hero: "/images/legacy/report-image-2.png"
+logos: ["/images/legacy/ieee-1.png"]
 ---
 
 # **AI Companions**
@@ -15,19 +17,13 @@ AI companions are increasingly present in everyday life, used for conversation, 
 
 See below for **academic papers**, **policy reports**, and work we are leading on **international standards** that guide the responsible design, deployment, and oversight of these systems.
 
-[![](/images/legacy/report-image-2.png)](https://drive.google.com/file/d/1dNte5ZH6prpm1inDQsZnN-N7H_0K4VPA/view?usp=sharing)
-
 ## [**2026 Report: Do AI Companions Understand?**](https://drive.google.com/file/d/1dNte5ZH6prpm1inDQsZnN-N7H_0K4VPA/view)
 
 [*Most UK Teens Say Yes*](https://drive.google.com/file/d/1dNte5ZH6prpm1inDQsZnN-N7H_0K4VPA/view)
 
-![](/images/legacy/ieee-1.png)
-
 ## **Standards**
 
 Over the past two years we have chaired and worked with IEEE and its volunteers to develop a technical standard to directly address the overlap between emulated empathy and human-AI partnering, including AI companions, agents, assistants, social chatbots, and robots/physical AI. Snappily titled as the [Recommended](https://standards.ieee.org/ieee/7014.1/11609/) Practice [for Ethical Considerations of Emulated Empathy in Partner-based General-Purpose Artificial Intelligence Systems](https://standards.ieee.org/ieee/7014.1/11609/), this will be out in Q1 or Q2 2026.
-
-![](/images/legacy/research-2.jpg)
 
 ## **Papers**
 
@@ -42,8 +38,6 @@ Bakir, V,. & McStay, A. (2025) [The Moral Threshold of AI Companionship and Desi
 McStay, A. (2024) [The hidden influence: exploring presence in human-synthetic interactions through ghostbots](https://doi.org/10.1007/s10676-024-09786-2). Ethics and Information Technology.
 
 McStay, A. (2022) [Replika in the Metaverse: the moral problem with empathy in ‘It from Bit’.](https://link.springer.com/article/10.1007/s43681-022-00252-7) *AI and Ethics*.
-
-![](/images/legacy/istockphoto-1317001742-612x612.jpg)
 
 ## **White papers**
 
