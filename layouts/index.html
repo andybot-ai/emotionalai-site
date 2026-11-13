@@ -51,7 +51,7 @@
 <section class="ruled"><div class="wrap sec">
   <div class="sec-head"><h2>Team</h2></div>
   <div class="team">{{ range $h.team }}
-    <div class="person"><div class="av" style="background:{{ .colour | safeCSS }}" aria-hidden="true">{{ .initials }}</div><span class="n">{{ .name }}</span><span class="r mono">{{ .role }}</span></div>{{ end }}
+    <div class="person">{{ with .photo }}<img class="av" src="{{ . }}" alt="" loading="lazy">{{ else }}<div class="av" style="background:{{ .colour | safeCSS }}" aria-hidden="true">{{ .initials }}</div>{{ end }}<span class="n">{{ .name }}</span><span class="r mono">{{ .role }}</span></div>{{ end }}
   </div>
   <p class="team-more"><a href="/team">Team and collaborators →</a></p>
 </div></section>

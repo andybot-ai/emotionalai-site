@@ -47,14 +47,15 @@ standard:
   title: "IEEE 7014.1-2026"
   text: "The international standard on ethical considerations for emulated empathy in general-purpose AI, chaired by Andrew McStay, with Lab members in the working group."
   url: "/ieee-70141"
-# TODO: confirm who appears on the homepage and their roles. Full list is on the Team page.
 team:
   - name: "Andrew McStay"
     role: "Director"
     initials: "AM"
+    photo: "/images/team/andrew-mcstay.jpg"
     colour: "#FF8A73"
   - name: "Vian Bakir"
     role: "Co-founder"
     initials: "VB"
+    photo: "/images/team/vian-bakir.jpg"
     colour: "#FFC94D"
 funders: ["ESRC", "AHRC", "EPSRC", "Responsible AI UK", "Innovate UK", "JST", "HDI Network", "Office of the Privacy Commissioner of Canada"]
