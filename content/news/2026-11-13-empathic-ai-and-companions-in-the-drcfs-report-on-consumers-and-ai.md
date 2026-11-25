@@ -4,7 +4,7 @@ date: 2026-11-13
 url: "/news/2026/11/13/empathic-ai-and-companions-in-the-drcfs-report-on-consumers-and-ai"
 ---
 
-The Digital Regulation Cooperation Forum (DRCF) has published [*Consumer Interest and AI*](https://www.drcf.org.uk/news-and-events/news/news-consumer-interest-and-ai-report), a report prepared for it by pattrn.ai. It draws on a review of the literature and the 30 responses to the DRCF’s June 2026 Call for Input. That call covered consumer risk tolerance, transparency, quality and accountability.
+The Digital Regulation Cooperation Forum (DRCF) has published [*Consumer Interest and AI*](https://www.drcf.org.uk/news-and-events/news/news-consumer-interest-and-ai-report), a report prepared for it by pattrn.ai. It draws on a review of the literature and the 30 responses to the DRCF’s June 2026 Call for Input. 
 
 We took part in this work, submitting evidence to the Call for Input. We’re very pleased to see the report give real attention to AI systems built to feel supportive, emotionally responsive or companion-like.
 
